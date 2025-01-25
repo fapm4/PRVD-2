@@ -1,0 +1,91 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Letras blancas */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1a1a1a; /* Fondo gris oscuro para el contenedor */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Sombra blanca */
+    border-radius: 8px;
+}
+
+/* Estilos para el título */
+h1 {
+    text-align: center;
+    color: #fff; /* Letras blancas */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Estilos para las pestañas */
+.dash-tabs {
+    margin-bottom: 20px;
+}
+
+.dash-tab {
+    background-color: #333; /* Fondo gris oscuro para las pestañas */
+    color: #fff; /* Letras blancas */
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.dash-tab:hover {
+    background-color: #555; /* Fondo gris más claro al pasar el mouse */
+}
+
+.dash-tab--selected {
+    background-color: #007BFF; /* Fondo azul para la pestaña seleccionada */
+}
+
+/* Estilos para los dropdowns */
+.Select-control {
+    background-color: #333; /* Fondo gris oscuro */
+    border-radius: 5px;
+    border: 1px solid #555; /* Borde gris */
+    color: #fff; /* Letras blancas */
+}
+
+.Select-menu-outer {
+    background-color: #333; /* Fondo gris oscuro */
+    border-radius: 5px;
+    border: 1px solid #555; /* Borde gris */
+}
+
+.Select-option {
+    background-color: #333; /* Fondo gris oscuro */
+    color: #fff; /* Letras blancas */
+}
+
+.Select-option.is-selected {
+    background-color: #007BFF; /* Fondo azul para la opción seleccionada */
+    color: #fff; /* Letras blancas */
+}
+
+.Select-option:hover {
+    background-color: #555; /* Fondo gris más claro al pasar el mouse */
+}
+
+/* Estilos para los mapas */
+.map-container {
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Sombra blanca */
+}
+
+/* Estilos para los iframes */
+iframe {
+    border: none;
+    border-radius: 8px;
+}
