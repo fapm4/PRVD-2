@@ -1,0 +1,71 @@
+<service fechaActualizacion="2024-12-11" id="105922">
+	<basicData>
+		<language>es</language>
+		<name><![CDATA[Roostiq Bar]]></name>
+		<email/>
+		<phone>(+34) 91 949 67 10</phone>
+		<fax/>
+		<title><![CDATA[Roostiq Bar]]></title>
+		<body><![CDATA[<p><strong>Junto a la Plaza de las Salesas se encuentra este bar restaurante fundado por Alberto Zoilo Álvarez en el que se busca rescatar la esencia de los bares de toda la vida. En él se podrá disfrutar de una propuesta gastronómica variada, aderezada con una amplia carta de vinos y una sólida oferta de cócteles centrada en tequilas, mezcales y whiskies.</strong></p><p>El interiorismo de Roostiq Bar en la calle Barquillo destaca por su combinación de elegancia, singularidad y accesibilidad, evocando una atmósfera alegre y dinámica. El local tiene una capacidad para unos 100 comensales.</p><p>La carta, centrada en la calidad del producto y su proximidad, ha sido diseñada por Zoilo y con David Blanco como responsable de I+D de Roostiq. Se divide en 9 secciones: comenzando por los entrantes y crudos, se da paso a una selección de embutidos de bellota, seguida por una destinada a sus verduras y huevos ecológicos. Tras ello, un apartado de “Bar Classics”, otro de marisco al fuego y el último dedicado a carnes a la brasa y pescados, respectivamente, con distintos tipos de guarniciones. Mención aparte merece la sección de los postres, que han sido diseñados por Raquel Álvarez.</p><p>La carta de vinos, creada también por Zoilo Álvarez junto al&nbsp;esponsable de sumillería, Pablo Sánchez, cuenta con setecientas referencias enológicas, con una gran representación de champanes y borgoñas.</p><p>La coctelería es uno de sus pilares. En sus más de un centenar de elaboraciones se da especial valor a los tequilas, mezcales y whiskies, con más de 300 referencias de estos destilados. Detrás de cada copa se encuentra Gabriel Gónzalez como responsable de la coctelería.</p><p>La firma Roostiq dispone también del restaurante Roostiq Madrid, en la calle Augusto Figueroa, 4.</p><p>&nbsp;</p>]]></body>
+		<web>https://www.esmadrid.com/restaurantes/roostiq-bar</web>
+	</basicData>
+	<geoData>
+		<address>del Barquillo, 40</address>
+		<zipcode/>
+		<locality/>
+		<country>Spain</country>
+		<latitude>40.423933300000</latitude>
+		<longitude>-3.695462500000</longitude>
+		<subAdministrativeArea>Madrid</subAdministrativeArea>
+	</geoData>
+	<multimedia>
+		<media type="image">
+			<description/>
+			<url>https://estaticos.esmadrid.com/cdn/farfuture/aQbk738KreWG8AqIMPeZbhnxENvflFgk5hcXPy5wlr8/mtime:1733927585/sites/default/files/recursosturisticos/restaurantes/roostiq_bar_3.png</url>
+		</media>
+		<media type="image">
+			<description/>
+			<url>https://estaticos.esmadrid.com/cdn/farfuture/YbA7GyqkBPWg035PhJDpjnIUCOF_n4mlhets2yQkPlA/mtime:1733927545/sites/default/files/recursosturisticos/restaurantes/roostiq_bar_2.png</url>
+		</media>
+		<media type="image">
+			<description/>
+			<url>https://estaticos.esmadrid.com/cdn/farfuture/nUQMAu3vekqp_zB-16YWlJPHrAQcXfmlhQrlLhaFqcU/mtime:1733927632/sites/default/files/recursosturisticos/restaurantes/roostiq_bar_4.png</url>
+		</media>
+		<media type="image">
+			<description/>
+			<url>https://estaticos.esmadrid.com/cdn/farfuture/KMseCmsBXRq87dnfIhmo2iStZmeH9cFBLuTCQibSLxM/mtime:1733927676/sites/default/files/recursosturisticos/restaurantes/roostiq_bar.png</url>
+		</media>
+	</multimedia>
+	<extradata>
+		<item name="idTipo">2</item>
+		<item name="Tipo">Restaurantes</item>
+		<categorias>
+			<categoria>
+				<item name="idCategoria">7517</item>
+				<item name="Categoria">Bares</item>
+			</categoria>
+			<categoria>
+				<item name="idCategoria">7149</item>
+				<item name="Categoria">Tapas</item>
+				<subcategorias>
+					<subcategoria>
+						<item name="idSubCategoria">7151</item>
+						<item name="SubCategoria">Gastrobares</item>
+					</subcategoria>
+				</subcategorias>
+			</categoria>
+			<categoria>
+				<item name="idCategoria">7074</item>
+				<item name="Categoria">Española</item>
+				<subcategorias>
+					<subcategoria>
+						<item name="idSubCategoria">7080</item>
+						<item name="SubCategoria">Mediterránea</item>
+					</subcategoria>
+				</subcategorias>
+			</categoria>
+		</categorias>
+		<item name="Servicios de pago"><![CDATA[]]></item>
+		<item name="Horario"><![CDATA[<p>Lun - Dom: 13:15 - 24:00 h (cocina) / hasta las 01:30h (barra)</p>]]></item>
+		<fechas/>
+	</extradata></service>
