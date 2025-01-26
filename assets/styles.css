@@ -26,26 +26,25 @@ h1 {
 }
 
 /* Estilos para las pestañas */
-.dash-tabs {
-    margin-bottom: 20px;
-}
-
 .dash-tab {
-    background-color: #333; /* Fondo gris oscuro para las pestañas */
-    color: #fff; /* Letras blancas */
+    background-color: #f0f0f0; /* Fondo gris claro para los tabs */
+    color: #000000; /* Letras negras */
     border-radius: 5px;
     padding: 10px 20px;
     margin-right: 10px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-weight: bold;
 }
 
 .dash-tab:hover {
-    background-color: #555; /* Fondo gris más claro al pasar el mouse */
+    background-color: #d0d0d0; /* Fondo gris más oscuro al pasar el mouse */
+    transform: translateY(-2px); /* Efecto de elevación */
 }
 
 .dash-tab--selected {
     background-color: #007BFF; /* Fondo azul para la pestaña seleccionada */
+    color: #ffffff; /* Letras blancas en la pestaña seleccionada */
 }
 
 /* Estilos para los dropdowns */
