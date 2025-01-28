@@ -1,0 +1,19 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__640___,CRTM,640,SAN LORENZO DE EL ESCORIAL-ROBLEDO CHAVELA-VALDEMAQUEDA,,3,https://www.crtm.es/8__640___.aspx,8EBF42,FFFFFF
+8__640_A__,CRTM,640A,ROBLEDO DE CHAVELA FFCC-ROBLEDO DE CHAVELA,,3,https://www.crtm.es/8__640_A__.aspx,8EBF42,FFFFFF
+8__645___,CRTM,645,MADRID (Moncloa)-ROBLEDO DE CHAVELA-CEBREROS,,3,https://www.crtm.es/8__645___.aspx,8EBF42,FFFFFF
+8__660___,CRTM,660,SAN LORENZO DE EL ESCORIAL-GUADARRAMA-VILLALBA,,3,https://www.crtm.es/8__660___.aspx,8EBF42,FFFFFF
+8__661___,CRTM,661,MADRID (Moncloa)-SAN LORENZO DE EL ESCORIAL (Por Galapagar),,3,https://www.crtm.es/8__661___.aspx,8EBF42,FFFFFF
+8__661_A__,CRTM,661A,MADRID (Moncloa)-LAS ZORRERAS (Por Galapagar),,3,https://www.crtm.es/8__661_A__.aspx,8EBF42,FFFFFF
+8__662___,CRTM,662,MADRID (Moncloa)-URB. MOLINO DE LA HOZ,,3,https://www.crtm.es/8__662___.aspx,8EBF42,FFFFFF
+8__664___,CRTM,664,MADRID (Moncloa)-SAN LORENZO DE EL ESCORIAL (Guadarrama),,3,https://www.crtm.es/8__664___.aspx,8EBF42,FFFFFF
+8__665___,CRTM,665,SAN LORENZO DE EL ESCORIAL-PEGUERINOS,,3,https://www.crtm.es/8__665___.aspx,8EBF42,FFFFFF
+8__666___,CRTM,666,SAN LORENZO DE EL ESCORIAL-ZARZALEJO-LAS NAVAS DEL MARQUÉS,,3,https://www.crtm.es/8__666___.aspx,8EBF42,FFFFFF
+8__667___,CRTM,667,MAJADAHONDA (Hospital)-SAN LORENZO DE EL ESCORIAL (Por Galapagar),,3,https://www.crtm.es/8__667___.aspx,8EBF42,FFFFFF
+8__669___,CRTM,669,SAN LORENZO DE EL ESCORIAL-VILLANUEVA DE LA CAÑADA,,3,https://www.crtm.es/8__669___.aspx,8EBF42,FFFFFF
+8__669_A__,CRTM,669A,S. L. DE EL ESCORIAL - FRESNEDILLAS - NAVALAGAMELLA,,3,https://www.crtm.es/8__669_A__.aspx,8EBF42,FFFFFF
+8_N_604___,CRTM,N604,MADRID (Moncloa)-EL ESCORIAL-SAN LORENZO DE EL ESCORIAL,,3,https://www.crtm.es/8_N_604___.aspx,8EBF42,FFFFFF
+9__1__131_,CRTM,1,S. L. DE EL ESCORIAL-FFCC-S. L. DE EL ESCORIAL,,3,https://www.crtm.es/9__1__131_.aspx,E60003,FFFFFF
+9__2__131_,CRTM,2,EL ESCORIAL-SAN LORENZO DE EL ESCORIAL-HOSPITAL-LA PIZARRA,,3,https://www.crtm.es/9__2__131_.aspx,E60003,FFFFFF
+9__3__054_,CRTM,3,EL ESCORIAL-LAS ZORRERAS,,3,https://www.crtm.es/9__3__054_.aspx,E60003,FFFFFF
+9__4__131_,CRTM,4,CIRCULAR SAN LORENZO DE EL ESCORIAL,,3,https://www.crtm.es/9__4__131_.aspx,E60003,FFFFFF

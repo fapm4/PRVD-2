@@ -1,0 +1,12 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__712___,CRTM,712,MADRID (Plaza de Castilla) - TRES CANTOS (Por Avda. de Encuartes),,3,https://www.crtm.es/8__712___.aspx,8EBF42,FFFFFF
+8__713___,CRTM,713,MADRID (Plaza de Castilla)-TRES CANTOS (Por Avda. del Parque),,3,https://www.crtm.es/8__713___.aspx,8EBF42,FFFFFF
+8__714___,CRTM,714,MADRID (Plaza de Castilla)-UNIV.AUTÓNOMA-UNIV.COMILLAS,,3,https://www.crtm.es/8__714___.aspx,8EBF42,FFFFFF
+8__716___,CRTM,716,MADRID (Plaza de Castilla)-TRES CANTOS (Soto de Viñuelas),,3,https://www.crtm.es/8__716___.aspx,8EBF42,FFFFFF
+8__717___,CRTM,717,MADRID (Plaza de Castilla)-NUEVO TRES CANTOS,,3,https://www.crtm.es/8__717___.aspx,8EBF42,FFFFFF
+8_N_701___,CRTM,N701,MADRID (Plaza de Castilla)-TRES CANTOS,,3,https://www.crtm.es/8_N_701___.aspx,8EBF42,FFFFFF
+9__1__903_,CRTM,1,FFCC-AVENIDA VIÑUELAS-AVENIDA COLMENAR-FFCC,,3,https://www.crtm.es/9__1__903_.aspx,E60003,FFFFFF
+9__2__903_,CRTM,2,FFCC-AVENIDA COLMENAR-AVENIDA VIÑUELAS-FFCC,,3,https://www.crtm.es/9__2__903_.aspx,E60003,FFFFFF
+9__3__903_,CRTM,3,SOTO DE VIÑUELAS-TRES CANTOS FFCC-SOTO DE VIÑUELAS,,3,https://www.crtm.es/9__3__903_.aspx,E60003,FFFFFF
+9__4__903_,CRTM,4,NUEVO TRES CANTOS - TRES CANTOS FF.CC.,,3,https://www.crtm.es/9__4__903_.aspx,E60003,FFFFFF
+9__5__903_,CRTM,5,NUEVO TRES CANTOS - AV. VIÑUELAS,,3,https://www.crtm.es/9__5__903_.aspx,E60003,FFFFFF

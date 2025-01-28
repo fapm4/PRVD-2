@@ -1,0 +1,12 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__630___,CRTM,630,VILLALBA (Estación)-GALAPAGAR-COLMENAREJO-VALDEMORILLO,,3,https://www.crtm.es/8__630___.aspx,8EBF42,FFFFFF
+8__631___,CRTM,631,MADRID (Moncloa)-TORRELODONES (Colonia)-GALAPAGAR-COLMENAREJO,,3,https://www.crtm.es/8__631___.aspx,8EBF42,FFFFFF
+8__632___,CRTM,632,MADRID (Moncloa)-LA NAVATA-GALAPAGAR-EL GUIJO,,3,https://www.crtm.es/8__632___.aspx,8EBF42,FFFFFF
+8__633___,CRTM,633,MAJADAHONDA (Hospital)-TORRELODONES (Colonia)-GALAPAGAR-COLMENAREJO,,3,https://www.crtm.es/8__633___.aspx,8EBF42,FFFFFF
+8__634___,CRTM,634,COLMENAREJO - GALAPAGAR - EST. LA NAVATA,,3,https://www.crtm.es/8__634___.aspx,8EBF42,FFFFFF
+8__635___,CRTM,635,MADRID (Moncloa)-TORRELODONES (Colonia)-LA NAVATA-GALAPAGAR,,3,https://www.crtm.es/8__635___.aspx,8EBF42,FFFFFF
+8_N_904___,CRTM,N904,MADRID (Moncloa)-TORRELODONES (Colonia)-GALAPAGAR-COLMENAREJO,,3,https://www.crtm.es/8_N_904___.aspx,8EBF42,FFFFFF
+9__1__152_,CRTM,1,FFCC-PUEBLO-ÁREA HOMOGÉNEA SUR,,3,https://www.crtm.es/9__1__152_.aspx,E60003,FFFFFF
+9__2__152_,CRTM,2,FFCC-AVENIDA DEHESA-LOS ROBLES,,3,https://www.crtm.es/9__2__152_.aspx,E60003,FFFFFF
+9__4__152_,CRTM,4,FFCC-PUEBLO-LOS PEÑASCALES,,3,https://www.crtm.es/9__4__152_.aspx,E60003,FFFFFF
+9__5__152_,CRTM,5,FFCC-PUEBLO-LOS PEÑASCALES (Por Pº Joaquín Ruiz J.),,3,https://www.crtm.es/9__5__152_.aspx,E60003,FFFFFF

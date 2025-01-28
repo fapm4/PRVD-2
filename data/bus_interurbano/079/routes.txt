@@ -1,0 +1,5 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__271___,CRTM,271,ALCALÁ DE HENARES-PEZUELA-PIOZ,,3,https://www.crtm.es/8__271___.aspx,8EBF42,FFFFFF
+8__272___,CRTM,272,ALCALÁ DE HENARES-VILLALBILLA,,3,https://www.crtm.es/8__272___.aspx,8EBF42,FFFFFF
+8__275___,CRTM,275,ALCALÁ-LOS SANTOS DE LA HUMOSA-ALCALÁ,,3,https://www.crtm.es/8__275___.aspx,8EBF42,FFFFFF
+8_N_200___,CRTM,N200,ALCALÁ DE HENARES - VILLALBILLA - ALCALÁ DE HENARES,,3,https://www.crtm.es/8_N_200___.aspx,8EBF42,FFFFFF

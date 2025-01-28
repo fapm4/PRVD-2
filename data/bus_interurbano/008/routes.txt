@@ -1,0 +1,26 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__480___,CRTM,480,MADRID (Plaza Elíptica)-LEGANÉS (Estación FFCC),,3,https://www.crtm.es/8__480___.aspx,8EBF42,FFFFFF
+8__481___,CRTM,481,MADRID (Oporto)-LEGANÉS (Parquesur-Hospital),,3,https://www.crtm.es/8__481___.aspx,8EBF42,FFFFFF
+8__482___,CRTM,482,MADRID (Aluche) - LEGANÉS (Arroyo Culebro),,3,https://www.crtm.es/8__482___.aspx,8EBF42,FFFFFF
+8__483___,CRTM,483,MADRID (Aluche)-LEGANÉS (Vereda de los Estudiantes),,3,https://www.crtm.es/8__483___.aspx,8EBF42,FFFFFF
+8__484___,CRTM,484,MADRID (Oporto)-LEGANÉS (Estación FFCC),,3,https://www.crtm.es/8__484___.aspx,8EBF42,FFFFFF
+8__485___,CRTM,485,MADRID (Aluche)-LEGANÉS (Norte-Montepinos),,3,https://www.crtm.es/8__485___.aspx,8EBF42,FFFFFF
+8__486___,CRTM,486,MADRID (Oporto)-LEGANÉS (Valdepelayo),,3,https://www.crtm.es/8__486___.aspx,8EBF42,FFFFFF
+8__487___,CRTM,487,MADRID (Aluche)-LEGANÉS (San Nicasio),,3,https://www.crtm.es/8__487___.aspx,8EBF42,FFFFFF
+8__488___,CRTM,488,LEGANÉS (San Nicasio)-GETAFE (Getafe Norte),,3,https://www.crtm.es/8__488___.aspx,8EBF42,FFFFFF
+8__491___,CRTM,491,MADRID (Aluche)-FUENLABRADA (Bº Naranjo),,3,https://www.crtm.es/8__491___.aspx,8EBF42,FFFFFF
+8__492___,CRTM,492,MADRID (Aluche)-FUENLABRADA (P. Granada),,3,https://www.crtm.es/8__492___.aspx,8EBF42,FFFFFF
+8__493___,CRTM,493,MADRID (Aluche)-FUENLABRADA (Urb. Loranca),,3,https://www.crtm.es/8__493___.aspx,8EBF42,FFFFFF
+8__495___,CRTM,495,MADRID (Príncipe Pío)-ARROYOMOLINOS-MORALEJA DE ENMEDIO,,3,https://www.crtm.es/8__495___.aspx,8EBF42,FFFFFF
+8__496___,CRTM,496,FUENLABRADA-MORALEJA DE ENMEDIO-ARROYOMOLINOS (Xanadú),,3,https://www.crtm.es/8__496___.aspx,8EBF42,FFFFFF
+8__497___,CRTM,497,LEGANÉS (Parque Sur)-MORALEJA DE ENMEDIO (Las Colinas),,3,https://www.crtm.es/8__497___.aspx,8EBF42,FFFFFF
+8__498___,CRTM,498,MÓSTOLES - ARROYOMOLINOS - MORALEJA DE ENMEDIO,,3,https://www.crtm.es/8__498___.aspx,8EBF42,FFFFFF
+8__498_A__,CRTM,498A,MÓSTOLES (Móstoles - Central) - ARROYOMOLINOS (Parque de Nieve),,3,https://www.crtm.es/8__498_A__.aspx,8EBF42,FFFFFF
+8__499___,CRTM,499,MÓSTOLES-ARROYOMOLINOS,,3,https://www.crtm.es/8__499___.aspx,8EBF42,FFFFFF
+8_N_802___,CRTM,N802,MADRID (Atocha) - LEGANÉS (Vereda de los Estudiantes),,3,https://www.crtm.es/8_N_802___.aspx,8EBF42,FFFFFF
+8_N_803___,CRTM,N803,MADRID (Atocha) - FUENLABRADA (Bº Naranjo),,3,https://www.crtm.es/8_N_803___.aspx,8EBF42,FFFFFF
+8_N_804___,CRTM,N804,MADRID (Atocha) - FUENLABRADA,,3,https://www.crtm.es/8_N_804___.aspx,8EBF42,FFFFFF
+8_N_808___,CRTM,N808,MADRID (Príncipe Pío)-ARROYOMOLINOS,,3,https://www.crtm.es/8_N_808___.aspx,8EBF42,FFFFFF
+9__1__074_,CRTM,1,VEREDA DE LOS ESTUDIANTES-LA FORTUNA,,3,https://www.crtm.es/9__1__074_.aspx,E60003,FFFFFF
+9__1_A_015_,CRTM,1A,CIRCULAR ARROYOMOLINOS,,3,https://www.crtm.es/9__1_A_015_.aspx,E60003,FFFFFF
+9__1_B_015_,CRTM,1B,CIRCULAR ARROYOMOLINOS,,3,https://www.crtm.es/9__1_B_015_.aspx,E60003,FFFFFF
