@@ -89,8 +89,16 @@ class MetroVisualization:
         
         if cloropleth:
             self.add_cloropleth(m)
+            title_html = '''
+            <h3 align="center" style="font-size:20px"><b>Mapa de Madrid con Estaciones de Metro y Precio Promedio por Distrito</b></h3>
+            '''
         else:
+            title_html = '''
+            <h3 align="center" style="font-size:20px"><b>Mapa de Madrid con Estaciones de Metro</b></h3>
+            '''
             self.add_borders(m)
+
+        m.get_root().html.add_child(folium.Element(title_html))
 
         for linea in sorted(self.metro_data['Line'].unique(), key=ordenar_lineas):  # Ordenamos usando la función auxiliar
             line_group = folium.FeatureGroup(name=f'{linea}')

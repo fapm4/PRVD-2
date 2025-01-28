@@ -18,14 +18,13 @@ class GeneralVisualization:
         fig2 = self.get_tipo_de_habitacion_por_distrito()
         fig3 = self.get_precio_promedio_por_distrito()
         fig4 = self.get_violins_plot()
-        fig5 = self.get_precio_promedio_por_distrito()
-        fig6 = self.get_dist_precio_por_hab()
-        fig7 = self.get_rel_precio_tam()
-        fig8 = self.get_rel_cal_precio()
+        fig5 = self.get_dist_precio_por_hab()
+        fig6 = self.get_rel_precio_tam()
+        fig7 = self.get_rel_cal_precio()
 
-        fig_9_1, fig_9_2, fig_9_3 = self.get_rel_precio_dist()
+        fig_8_1, fig_8_2, fig_8_3 = self.get_rel_precio_dist()
 
-        fig_10 = self.get_corr_matrix()
+        fig_9 = self.get_corr_matrix()
 
         return html.Div([
             dcc.Graph(figure=fig1),
@@ -35,11 +34,10 @@ class GeneralVisualization:
             dcc.Graph(figure=fig5),
             dcc.Graph(figure=fig6),
             dcc.Graph(figure=fig7),
-            dcc.Graph(figure=fig8),
-            dcc.Graph(figure=fig_9_1),
-            dcc.Graph(figure=fig_9_2),
-            dcc.Graph(figure=fig_9_3),
-            dcc.Graph(figure=fig_10)
+            dcc.Graph(figure=fig_8_1),
+            dcc.Graph(figure=fig_8_2),
+            dcc.Graph(figure=fig_8_3),
+            dcc.Graph(figure=fig_9)
         ])
 
 
