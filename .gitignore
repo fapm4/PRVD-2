@@ -170,14 +170,12 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-.data/
+*.zip
+
+# .data/
+
+# data/*
 
 # *.csv
 
-*.csv
-
-.data/
-
-data/*
-
-*.csv
+# *.txt

@@ -1,0 +1,12 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+9__2__005_,CRTM,2,PUERTA DE SANTA ANA - HOSPITAL/UNIVERSIDAD,,3,https://www.crtm.es/9__2__005_.aspx,E60003,FFFFFF
+9__3__005_,CRTM,3,CUATRO CAÑOS - HOSPITAL/UNIVERSIDAD - ESPARTALES,,3,https://www.crtm.es/9__3__005_.aspx,E60003,FFFFFF
+9__5__005_,CRTM,5,PLAZA DE LA PAZ - NUEVA RINCONADA,,3,https://www.crtm.es/9__5__005_.aspx,E60003,FFFFFF
+9__6__005_,CRTM,6,EST. LA GARENA - VIRGEN DEL VAL,,3,https://www.crtm.es/9__6__005_.aspx,E60003,FFFFFF
+9__7__005_,CRTM,7,ENSANCHE NORTE - NUEVA ALCALÁ / CEMENTERIO JARDÍN,,3,https://www.crtm.es/9__7__005_.aspx,E60003,FFFFFF
+9__8__005_,CRTM,8,LOS NOGALES - VIRGEN DEL VAL,,3,https://www.crtm.es/9__8__005_.aspx,E60003,FFFFFF
+9__9__005_,CRTM,9,EST. ALCALÁ DE HENARES - EL OLIVAR /POLÍGONO CAMPORROSO,,3,https://www.crtm.es/9__9__005_.aspx,E60003,FFFFFF
+9__10__005_,CRTM,10,VIA COMPLUTENSE CENTRO - ESPARTALES NORTE,,3,https://www.crtm.es/9__10__005_.aspx,E60003,FFFFFF
+9__11__005_,CRTM,11,LA GARENA - EST. ALCALÁ UNIVERSIDAD,,3,https://www.crtm.es/9__11__005_.aspx,E60003,FFFFFF
+9__1_A_005_,CRTM,1A,CIRCULAR ALCALÁ DE HENARES,,3,https://www.crtm.es/9__1_A_005_.aspx,E60003,FFFFFF
+9__1_B_005_,CRTM,1B,CIRCULAR ALCALÁ DE HENARES,,3,https://www.crtm.es/9__1_B_005_.aspx,E60003,FFFFFF

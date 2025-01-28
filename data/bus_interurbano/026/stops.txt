@@ -1,0 +1,493 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+par_8_08930,08930,REAL DE SAN SEBASTIÁN-AMARGURA,Calle   Real de San Sebastián 27,40.4021148681641,-3.99621033668518,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08931,08931,REAL DE SAN SEBASTIÁN-AMARGURA,Calle   Real de San Sebastián 29,40.4019165039063,-3.99627804756165,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08932,08932,REAL DE SAN SEBASTIÁN-CARIDAD,Calle   Real de San Sebastián 2,40.4047164916992,-3.99760389328003,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08933,08933,REAL DE SAN SEBASTIÁN-CARIDAD,Calle   Real de San Sebastián 2,40.4043998718262,-3.9976818561554,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08934,08934,PºDE RONDA-DAVID ALARZA,Paseo de Ronda 25,40.4071884155273,-3.99813532829285,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08935,08935,PZA.ALTOZANO-MADRID,Plaza   Altozano 5,40.4068832397461,-3.99890875816345,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08980,08980,CTRA.M513-URB.GUADAMONTE,Ctra   Boadilla del Monte 12500,40.4126200446228,-3.95568255809292,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08981,08981,AV.RÍO-URB.GUADAMONTE,Ctra   Boadilla del Monte 12600,40.4120167579677,-3.95673475099647,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10483,10483,CTRA.M513-URB.RAYA DEL PALANCAR,Ctra   Boadilla del Monte 12000,40.4134008501996,-3.95057843232586,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10485,10485,CTRA.M513-URB.RAYA DEL PALANCAR,Ctra   Boadilla del Monte 12100,40.412510232578,-3.95152056146173,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12153,12153,CTRA.M513-LA CHOPERA,Ctra   M-513 (De la A-5 a Brunete por Boadilla) 13400,40.4092826391899,-3.96593577428554,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12154,12154,CTRA.M513-GRANJA ESCUELA,Ctra   M-513 (De la A-5 a Brunete por Boadilla) 13100,40.4098658131006,-3.96190168976924,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15069,15069,CTRA.M513-GRANJA ESCUELA,Ctra   M-513 (De la A-5 a Brunete por Boadilla) 14,40.4095755834441,-3.9632175265207,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15070,15070,CTRA.M513-LA CHOPERA,Ctra   M-513 (De la A-5 a Brunete por Boadilla) 19,40.4087823538943,-3.96866281048175,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17683,17683,AV.OLIVA-MORENO TORROBA,Avda   Oliva 67,40.4476403573218,-3.87569729620521,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17725,17725,AV.OLIVA-RUPERTO CHAPÍ,Avda   Oliva 63,40.4474941947137,-3.86999980946942,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17923,17923,J.RODRIGO-HOSPITAL PUERTA DE HIERRO,Calle   Joaquín Rodrigo 1,40.4488069361189,-3.87511102971141,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_17924,17924,J.RODRIGO-HOSPITAL PUERTA DE HIERRO,Calle   Joaquín Rodrigo 1,40.4487682971819,-3.87664353165567,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_17926,17926,RUPERTO CHAPÍ-AV.OLIVA,Calle   Ruperto Chapí SN,40.4481009219051,-3.86958311383989,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20616,20616,LEÓN FELIPE-EMILIA PARDO BAZÁN,Calle   León Felipe 4,40.4249229431152,-3.97773265838623,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20617,20617,ANTONIO MACHADO-CAMINO RAYA,Calle   Antonio Machado 1,40.4235572814941,-3.97587394714355,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20618,20618,RONDA DE LA RAYA-AZOR,Ronda   Raya 18,40.4243316650391,-3.97593235969543,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_06197,06197,EMPEDRADA-REAL,Calle   Empedrada 4,40.4480857849121,-4.00458908081055,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06680,06680,ERAS DE MÓSTOLES-SAN ISIDRO,Calle  Eras de Mostoles 2,40.4441986083984,-4.00330495834351,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06753,06753,ERAS DE MÓSTOLES-LUNA,Calle  Eras de Móstoles 1,40.4442253112793,-4.00337600708008,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08461,08461,PºEXTREMADURA-CUATRO VIENTOS,Paseo de Extremadura 8500,40.380132080447,-3.7900509419197,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08464,08464,PºEXTREMADURA-CUATRO VIENTOS,Paseo de Extremadura 573,40.3776645886858,-3.79254302966251,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08467,08467,AV.SAN MARTÍN DE VALDEIGLESIAS-URUGUAY,Avda de San Martín de Valdeiglesias 4,40.3569259643555,-3.82319688796997,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08468,08468,AV.SAN MARTÍN DE VALDEIGLESIAS-PARAGUAY,Avda de San Martín de Valdeiglesias 18,40.3571014404297,-3.82774472236633,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08469,08469,AV.S.MARTÍN VALDEIGLESIAS-C.C.TRES AGUAS,Avda de San Martín de Valdeiglesias 18,40.3573417663574,-3.83218741416931,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08913,08913,AV.PRÍNCIPE ASTURIAS-PELÍCANO,Avda  Príncipe de Asturias 90,40.3586082458496,-3.90696167945862,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08926,08926,CTRA.M501-EL VENTORRO,Ctra de M-501 (De Alcorcón a Plasencia) 17500,40.3960342407227,-3.99411749839783,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08945,08945,ERAS DE MÓSTOLES-CENTRO DE SALUD,Calle   Eras de Móstoles 29,40.4471893310547,-4.00196981430054,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08946,08946,ERAS DE MÓSTOLES-CENTRO DE SALUD,Calle   Eras de Móstoles 33,40.4475250244141,-4.00211620330811,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09347,09347,AV.CALATALIFA-SAN ANTONIO,Avda   Calatalifa 22,40.3553123474121,-3.90298438072205,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09364,09364,ARGENTINA-C.C.TRES AGUAS,Calle de Argentina 8,40.3557739257813,-3.82941246032715,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09965,09965,EMPEDRADA-REAL,Calle   Empedrada 1,40.4481658935547,-4.00483798980713,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10267,10267,CTRA.M521-REAL,Avda   Villanueva de la Cañada 5,40.427131652832,-4.0552864074707,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10269,10269,CTRA.M521-REAL,Avda  Villanueva de la Cañada 3,40.4272880554199,-4.0548529624939,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10568,10568,AV.PRÍNCIPE ASTURIAS-SUPERMERCADO,Avda   Príncipe de Asturias 26,40.3560180664063,-3.90174531936646,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10569,10569,AV.PPE.DE ASTURIAS-SUPERMERCADO,Avda   Príncipe de Asturias 127,40.3558692932129,-3.90195536613464,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11048,11048,AV.UNIVERSIDAD-UNIVERSIDAD,Avda  Universidad 1,40.4502563476563,-3.98398423194885,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11165,11165,CRISTO-AV.GAUDI,Calle   Cristo 29,40.4483337402344,-3.99913311004639,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11166,11166,CRISTO-AV.GAUDI,Calle  Cristo 32,40.4482536315918,-3.99883699417114,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11352,11352,AV.PRÍNCIPE ASTURIAS-AV.NACIONES,Avda   Príncipe de Asturias 126,40.3636360168457,-3.9145667552948,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12527,12527,AV.VILLANUEVA DE LA CAÑADA-CENTRO SALUD,Avda   Villanueva de la Cañada 6,40.4084777832031,-3.99902653694153,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12660,12660,AV.VILLANUEVA DE LA CAÑADA-OPORTO,Avda   Villanueva de la Cañada 10,40.4312629699707,-4.05263948440552,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12661,12661,AV.VILLANUEVA DE LA CAÑADA-VITORIA,Avda   Villanueva de la Cañada 8 V,40.4306106567383,-4.05314826965332,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15356,15356,TVRA.RELOJ-AV.VILLANUEVA DE LA CAÑADA,Trva  Reloj 1,40.4111404418945,-4.0004448890686,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15501,15501,CTRA.M600-GTA.OLÍMPICA,Ctra  M-600 (De Guadarrama a Brunete por El Escorial) 1,40.4116134643555,-4.00015735626221,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16124,16124,SIERRA DE GREDOS-SERRANÍA DE RONDA,Calle  Sierra de Gredos 2,40.4395332336426,-4.00426149368286,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16125,16125,SIERRA DE GREDOS-SERRANÍA DE RONDA,Calle   Sierra de Gredos 2,40.4394912719727,-4.00369501113892,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16126,16126,SIERRA DE GREDOS-SIERRA DE ALABARRACÍN,Calle   Sierra de Gredos 24,40.4390563964844,-4.00723743438721,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16127,16127,SIERRA DE GREDOS-SIERRA DE ALCARAZ,Calle   Sierra de Gredos 25,40.4389381408691,-4.00714111328125,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16128,16128,SIERRA DE GREDOS-SIERRA DE GATA,Calle  Sierra de Gredos 52,40.4384803771973,-4.01032972335815,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16129,16129,SIERRA DE GREDOS-SIERRA DE GATA,Calle   Sierra de Gredos 52,40.4382629394531,-4.01037359237671,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16130,16130,SIERRA DE GUADARRAMA-SIERRA MORENA,Calle   Sierra de Guadarrama 2,40.4400634765625,-4.0115442276001,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16131,16131,SIERRA DE GUADARRAMA-SIERRA DE GRAZALEMA,Calle  Sierra de Guadarrama 2,40.4396934509277,-4.01163291931152,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16167,16167,REAL-AV.JUAN GRIS,Calle   Real 31300,40.4409408569336,-4.00291442871094,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16168,16168,REAL-MAESTRO ALBENIZ,Calle   Real 31300,40.4411735534668,-4.00283575057983,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16620,16620,VIRGEN DEL PILAR-JENARO NÚÑEZ,Calle   Virgen del Pilar 3,40.4282531738281,-4.05686044692993,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16621,16621,CTRA.M521-PÉREZ GALDÓS,Avda   Villanueva de la Cañada 14,40.4320030212402,-4.05051755905151,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16622,16622,CTRA.M521-AV.DEHESA,Avda   Villanueva de la Cañada 4900,40.4317092895508,-4.05005311965942,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16623,16623,VIRGEN DEL PILAR-MOLINO,Calle   Virgen del Pilar 7,40.4283828735352,-4.05728673934937,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17051,17051,INTERCAMBIADOR DE PRÍNCIPE PÍO,Paseo de la Florida 2,40.421314239502,-3.72064995765686,A,http://www.crtm.es,0,est_90_18,,2
+par_8_18216,18216,CTRA.M521-CEMENTERIO,Ctra   M-521 (Quijorna) 1800,40.4388999938965,-4.02185535430908,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18217,18217,CTRA.M521-CEMENTERIO,Ctra   M-521 (Quijorna) 1800,40.4387855529785,-4.02152347564697,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20645,20645,AV.MADRID-BRASIL,Avda de Madrid 16,40.4476356506348,-3.99419355392456,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20646,20646,AV.MADRID-BRASIL,Avda de Madrid 1,40.4479370117188,-3.9940447807312,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_881,881,Pº EXTREMADURA Nº 190,Paseo de Extremadura 3600,40.4078750610352,-3.7447726726532,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_885,885,Pº EXTREMADURA-BATAN,Paseo de Extremadura 4200,40.4050903320313,-3.75136518478394,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_892,892,Pº EXTREMADURA-CAMPAMENTO,Calle de Carabias 24,40.3965209976837,-3.76841989361963,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_893,893,Pº EXTREMADURA-CAMPAMENTO,Avda del Padre Piquer 3,40.3959503173828,-3.76871466636658,A,http://www.crtm.es,0,,Europe/Madrid,0
+est_90_18,18,Intercambiador de Príncipe Pío,Paseo de la Florida 2,40.42107,-3.72037,A,http://www.crtm.es,1,,Europe/Madrid,0
+par_8_06103,06103,AV.NOROESTE-SIETE PICOS,Ctra  Vía Servicio Carretera de A Coruña 23,40.4972126508971,-3.87133800947194,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06104,06104,CTRA.A6-URB.MARACAIBO,Calle de la Vía de Servicio de las Rozas 1,40.5038108825684,-3.87440538406372,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06113,06113,AV.PEÑASCALES-FRANCISCO ALONSO,Avda   Peñascales 2,40.5547828674316,-3.89781618118286,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06114,06114,PZA.FERROCARRIL-EST.LAS MATAS,Plaza del Ferrocarril 1,40.5526313781738,-3.89654731750488,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06115,06115,SAN JOSÉ OBRERO-CENTRO COMERCIAL,Calle   Martín Iriarte 19,40.5508804321289,-3.89478778839111,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06120,06120,PZA.FERROCARRIL-EST.LAS MATAS,Plaza del Ferrocarril 2,40.5527038574219,-3.89641833305359,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06121,06121,PILAR-FRANCISCO ALONSO,Calle   Pilar 16,40.5546607971191,-3.89747214317322,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06123,06123,AV.PEÑASCALES-AV.PARDO,Avda   Peñascales 38,40.5616027293034,-3.90238783133174,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06125,06125,AV.MARSIL-CASETA DE GUARDIA,Avda de Marsil 2,40.5485305786133,-3.89688229560852,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06126,06126,CTRA.A6-URB.LOS ÁLAMOS,Ctra  Vía Servicio Carretera de A Coruña sn,40.5373268127441,-3.89065194129944,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06130,06130,MARÍA GUERRERO-CºCAMPO DE TIRO,Calle   María Guerrero 5,40.5086326599121,-3.8799090385437,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06131,06131,CTRA.A6-URB.MARACAIBO,Ctra  Vía Servicio Carretera de A Coruña 19.800,40.5030288696289,-3.87533926963806,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06132,06132,AV.NOROESTE-PºPINAR,Ctra  Vía Servicio Carretera de A Coruña 18900,40.4965358769023,-3.87029079210849,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06133,06133,AV.DOCTOR TOLEDO-COLEGIO,Avda   Doctor Toledo 23,40.4950866699219,-3.87151885032654,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06145,06145,AV.IGLESIA-REAL,Avda de la Iglesia 2,40.491813659668,-3.87316393852234,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06206,06206,AV.PEÑASCALES-AV.PARDO,Avda   Peñascales 38,40.5619048380451,-3.90292343566126,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06414,06414,AV.ESPARTA-JÚPITER,Avda  Esparta 22,40.5152053833008,-3.91093349456787,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06415,06415,AV.ESPARTA-SÉNECA,Avda   Esparta 52,40.5177268981934,-3.90747356414795,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06416,06416,AV.ATENAS-PZA.CRETA,Avda de Atenas 71,40.5203132629395,-3.9212965965271,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06417,06417,AV.ATENAS-MICENAS,Avda de Atenas 48,40.5258712768555,-3.91663861274719,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06418,06418,AV.ATENAS-URB.EL PINAR,Avda de Atenas 33,40.5316123962402,-3.90829849243164,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06419,06419,AV.ATENAS-EL REFUGIO,Avda de Atenas 5,40.5339546203613,-3.90247368812561,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06420,06420,AV.ATENAS-AV.MALLORCA,Avda de Atenas 1,40.536205291748,-3.89572620391846,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06421,06421,AV.ATENAS-PLAYA DE SANGENJO,Avda de Atenas 1,40.5362815856934,-3.89656543731689,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09411,09411,CTRA.M505-GALICIA,Ctra del Escorial 5,40.4920196533203,-3.87887787818909,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09413,09413,AV.ATENAS-ESCUELA DE NATACIÓN,Avda de Atenas 4,40.5358467102051,-3.89924001693726,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09803,09803,CTRA.A6-PLAYA DE LAS AMÉRICAS,Ctra  Vía Servicio Carretera de A Coruña SN,40.5421867370605,-3.89351487159729,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09805,09805,CTRA.A6-PQUE.EUROPA EMPRESARIAL,Ctra   Vía Servicio Carretera de A Coruña 24.200,40.539737701416,-3.89212441444397,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09810,09810,TRACIA-URB.LOS JARALES,Calle  Tracia 10,40.5188484191895,-3.90489172935486,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09811,09811,TRACIA-URB.LOS JARALES,Calle  Tracia 30,40.5179100036621,-3.90391111373901,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09812,09812,SANTOS-URB.PARQUE DE LAS MATAS,Calle  Santos 20,40.5201606750488,-3.90985560417175,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09814,09814,PºCORINTO-URB.SEÑORÍO DE LAS ROZAS,Paseo de Corinto 41,40.5171318054199,-3.91238808631897,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09815,09815,AV.ESPARTA-DARÍO,Avda  Esparta 22,40.5150108337402,-3.91137957572937,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09816,09816,ARISTÓTELES-POLIDEPORTIVO,Calle  Aristóteles 1,40.5133781433105,-3.91513466835022,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09817,09817,ARISTÓTELES-POLIDEPORTIVO,Calle  Aristóteles 1,40.5131607055664,-3.91519069671631,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09818,09818,ARISTÓTELES-CENTRO DE SALUD,Calle   Aristóteles 54,40.5153007507324,-3.91800546646118,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09819,09819,ARISTÓTELES-CENTRO DE SALUD,Calle   Aristóteles 3,40.5152549743652,-3.91837072372437,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09820,09820,AV.ATENAS-C.C.ZOCO MONTERROZAS,Avda de Atenas 75,40.517463684082,-3.92354774475098,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09821,09821,AV.ATENAS-C.C.ZOCO MONTERROZAS,Avda de Atenas 75,40.5175247192383,-3.92376112937927,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09822,09822,AV.ATENAS-PZA.CRETA,Avda de Atenas 64,40.5206527709961,-3.92130136489868,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09823,09823,AV.ATENAS-MEGARA,Avda de Atenas 50,40.5232772827148,-3.91881084442139,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09824,09824,AV.ATENAS-PARADISIA,Avda de Atenas 50,40.5233573913574,-3.91903614997864,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09825,09825,AV.ATENAS-CºPERALES,Avda de Atenas 48,40.5259246826172,-3.91691088676453,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09826,09826,AV.ATENAS-URB.EL PINAR,Avda de Atenas 40,40.53173828125,-3.90840649604797,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09827,09827,AV.ATENAS-CENTRO GERIÁTRICO,Avda de Atenas 10,40.5350112915039,-3.90127158164978,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10958,10958,PLAYA DE SITGES-AV.ATENAS,Calle  Playa de Sitges 2,40.5368881225586,-3.89371609687805,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10959,10959,PLAYA DE SITGES-OFICINAS EUROPA,Calle  Playa de Sitges 22 B,40.5393218994141,-3.89448070526123,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10960,10960,PLAYA DE SITGES-PLAYA DE BOLONIA,Calle  Playa de Sitges 40,40.5417137145996,-3.89511466026306,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11088,11088,AV.CONSTITUCIÓN-AYUNTAMIENTO,Avda de la Constitución 8,40.4925270080566,-3.8749668598175,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11513,11513,AV.RUBIOS-XVI,Avda de los Rubios 10,40.5630531311035,-3.89769053459167,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11514,11514,AV.RUBIOS-XVII,Avda de los Rubios 14,40.5630340576172,-3.89709949493408,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11515,11515,PLAYA LAS AMÉRICAS-PANAMÁ,Calle  Playa de las Américas 52,40.54150390625,-3.90008330345154,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11516,11516,AV.MARSIL-IGLESIA,Avda de Marsil 24,40.5453414916992,-3.90122127532959,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12011,12011,SAN JOSÉ PEDROSILLO-URB.LAS ENCINAS,Calle  San José del Pedrosillo 63,40.5632743835449,-3.88701486587524,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12012,12012,SAN JOSÉ PEDROSILLO-URB.LAS ENCINAS,Calle  San José del Pedrosillo 61,40.5630302429199,-3.88708257675171,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12014,12014,AV.PEÑASCALES-SAN JOSÉ PEDROSILLO,Avda  Peñascales 22,40.5577545166016,-3.89940333366394,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12015,12015,AV.PEÑASCALES-SAN JOSÉ PEDROSILLO,Avda   Peñascales 18,40.5577354431152,-3.89956831932068,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12446,12446,TRVA.NAVALCARBÓN-HERON CITY,Trva   Navalcarbón 1,40.5159339904785,-3.89969396591187,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12447,12447,TRVA.NAVALCARBÓN-HERON CITY,Travesía de Navalcarbón SN,40.5156517028809,-3.89964294433594,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12952,12952,AV.RUBIOS-AV.PARDO,Avda de los Rubios 4,40.5627822875977,-3.9013249874115,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12953,12953,AV.RUBIOS-VI,Avda de los Rubios 4,40.5626411437988,-3.9012405872345,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_13035,13035,CTA.SAN FRANCISCO-PZA.MADRID,Custa de San Francisco 16,40.492472660473,-3.8691290925246,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15211,15211,ARISTÓTELES-AV.ATENAS,Calle   Aristóteles 5,40.5164184570313,-3.92380475997925,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15462,15462,PANAMÁ-CHILE,Calle  Panamá 1,40.5428657531738,-3.90101075172424,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15697,15697,CASTILLO ARÉVALO-CASTILLO PEÑAFIEL,Calle  Castillo de Arévalo 9,40.5084838867188,-3.89499139785767,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15698,15698,CASTILLO ARÉVALO-CASTILLO OROPESA,Calle  Castillo de Arévalo 9,40.5083465576172,-3.89529633522034,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15699,15699,CASTILLO ARÉVALO-CASTILLO ATIENZA,Calle  Castillo de Arévalo 2,40.5059013366699,-3.89329290390015,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15700,15700,CASTILLO ARÉVALO-CASTILLO LA MOTA,Calle  Castillo de Arévalo 2,40.5057830810547,-3.89355087280273,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15701,15701,LONDRES-BRUSELAS,Calle  Londres 34,40.5023727416992,-3.89299821853638,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15702,15702,LONDRES-BRUSELAS,Calle  Londres 27 B,40.5019836425781,-3.89296936988831,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17255,17255,CLARA CAMPOAMOR-ANA TUTOR,Calle  Clara Campoamor SN,40.5055618286133,-3.88018774986267,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17685,17685,MANUEL FALLA-URG.HOSPITAL PTA.DE HIERRO,Calle   Manuel de Falla 35,40.4516058224865,-3.87429825570177,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_18088,18088,COMUNIDAD MADRID-BURGOCENTRO,Calle de la Comunidad de Madrid 41,40.4909744262695,-3.87799096107483,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18155,18155,PRIMAVERA-PONIENTE,Calle  Primavera 19,40.5617942810059,-3.89411807060242,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18265,18265,ZAMORA-PONIENTE,Calle  Zamora 11,40.5621871948242,-3.89320206642151,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18267,18267,SAN JOSÉ PEDROSILLO-JUAN DE MENA,Calle  San José del Pedrosillo 43,40.5620918273926,-3.89051938056946,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18268,18268,CASTILLA-JUAN DE MENA,Calle  Castilla 46,40.5613327026367,-3.88950538635254,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18518,18518,SAN JOSÉ OBRERO-MUSEO FERROVIARIO,Calle  San José Obrero 14,40.5500411987305,-3.89493012428284,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19350,19350,SAN JOSÉ DEL PEDROSILLO-ZAMORA,Calle   San José del Pedrosillo 33,40.5612564086914,-3.892657995224,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19351,19351,ZAMORA-SAN JOSÉ DEL PEDROSILLO,Calle   Zamora 5,40.5609703063965,-3.89233541488647,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20353,20353,AV.NOROESTE-AV.DOCTOR TOLEDO,Avda   Noroeste 1,40.495802116253,-3.86963227912174,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20611,20611,QUÍMICOS-C.C.GRAN PLAZA 2,Calle de los Químicos 1,40.4907417297363,-3.89992380142212,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20679,20679,ITV-VÍA SERVICIO LAS ROZAS,Calle de la Vía de Servicio de las Rozas 1,40.5101776123047,-3.87709665298462,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20828,20828,MARÍA MOLINER-EMILIA PARDO BAZÁN,Calle   MARÍA MOLINER sn,40.5019569396973,-3.88034105300903,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20989,20989,MARIE CURIE-PZA.OCHO DE MARZO,Calle   María Curie 2,40.5018348693848,-3.88667702674866,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20991,20991,MARIE CURIE-PZA.OCHO DE MARZO,Calle   María Curie SN,40.5020866394043,-3.88666868209839,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_21141,21141,CASTILLO DE SIMANCAS-RECINTO FERIAL,Calle   Castillo de Simancas SN,40.5107154846191,-3.89393520355225,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_06002,06002,INTERCAMBIADOR MONCLOA,Calle de la Princesa 89,40.4343032836914,-3.71930313110352,A,http://www.crtm.es,0,est_90_14,,2
+par_8_06026,06026,AV.PADRE HUIDOBRO-URB.CASAQUEMADA,Ctra de la Coruña 15100,40.4760856628418,-3.83847689628601,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06098,06098,CTRA.CORUÑA-CºTOMILLARÓN,Calle de la Vía de Servicio de las Rozas 17,40.4912300109863,-3.86659574508667,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06136,06136,AV.ESPAÑA-URB.LAS CABAÑAS II,Avda de España 16,40.4852869329144,-3.86869422689449,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06137,06137,AV.ESPAÑA-COMUNIDAD DE BALEARES,Avda de España 16,40.4872017926393,-3.8728131913935,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06138,06138,AV.ESPAÑA-COMUNIDAD CASTILLA LEÓN,Avda de España 139,40.4885635375977,-3.88092136383057,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06140,06140,COMUNIDAD ANDALUCÍA-VILLA DE FOZ,Calle  Comunidad de Andalucía 28 BIS,40.48828125,-3.88595604896545,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06141,06141,COMUNIDAD ANDALUCÍA-MAZARRÓN,Calle   Mazarrón 38,40.4892768859863,-3.89034652709961,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06142,06142,COMUNIDAD LA RIOJA-SERV.SOCIALES,Calle de la Comunidad de la Rioja 3,40.4911270141602,-3.88165092468262,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06146,06146,PZA.MADRID-CTRA.CORUÑA,Plaza de Madrid 1,40.4925422668457,-3.86854767799377,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06147,06147,CTRA.MAJADAHONDA-BIBLIOTECA,Ctra   Rozas-Majadahonda 7500,40.4893646240234,-3.86664247512817,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06166,06166,CTRA.EL ESCORIAL-QUINTA DEL SOL,Ctra del Escorial 5,40.4859046936035,-3.8656895160675,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06170,06170,CTRA.A6-COLONIA VERACRUZ,Ctra de la Coruña 16900,40.4841423034668,-3.86161994934082,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06174,06174,AV.ESPAÑA-COMUNIDAD DE CANARIAS,Avda de España 3,40.4862059938762,-3.87106585442034,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06175,06175,AV.ESPAÑA-URB.LAS CABAÑAS II,Avda de España 1,40.4850184692202,-3.86845479189083,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06208,06208,AV.ESPAÑA-COMUNIDAD CASTILLA LA MANCHA,Avda de España 111,40.4877671631615,-3.87785875637196,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06218,06218,CTRA.A6-URB.JARDÍN DE LAS AVENIDAS,Ctra de la Coruña 1,40.4814376831055,-3.8544237613678,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06268,06268,AV.PADRE HUIDOBRO-PºERMITA,Avda del Padre Huidobro 9700,40.4628105163574,-3.77879428863525,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09333,09333,COMUNIDAD CASTILLA LA MANCHA-BURGOCENTRO,Calle de la Comunidad Castilla-La Mancha 1,40.4900894165039,-3.87682318687439,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09334,09334,AV.ESPAÑA-PRINCIPADO DE ASTURIAS,Avda de España 38,40.4876545016087,-3.87489570490319,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09335,09335,AV.ESPAÑA-PRINCIPADO DE ASTURIAS,Avda de España 15,40.4874844235544,-3.87475190686816,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09556,09556,COMUNIDAD LA RIOJA-PZA.FRANCIA,Calle de la Comunidad de la Rioja 36,40.4930458068848,-3.88499188423157,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09557,09557,COMUNIDAD ARAGÓN-COMUNIDAD MURCIA,Calle  Comunidad de Aragón SN,40.4922790527344,-3.88854551315308,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10957,10957,COMUNIDAD MURCIA-URB.LOS ALTOS DEL BURGO,Calle   Comunidad de Murcia 3,40.4909133911133,-3.88813805580139,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11089,11089,CTRA.EL ESCORIAL-QUINTA DEL SOL,Rtda   Cruz Roja Española 1,40.4864311218262,-3.86651039123535,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11090,11090,CTRA.M505-CEREZALES,Ctra del Escorial 8,40.4857368469238,-3.865238904953,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12304,12304,CTRA.MAJADAHONDA-BIBLIOTECA,Ctra de las Rozas-Majadahonda 3,40.4889717102051,-3.86654305458069,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12370,12370,AV.ESPAÑA-COMUNIDAD CASTILLA LA MANCHA,Calle  Alicante 8,40.487548828125,-3.87795829772949,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_13036,13036,PZA.MADRID-EST.LAS ROZAS,Avda de Coruña 38,40.4926490783691,-3.86831307411194,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_1332,1332,AV.PUERTA DE HIERRO-AGRONOMOS,Avda de Puerta de Hierro 4400,40.4411201477051,-3.72853755950928,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_1333,1333,AV.PUERTA DE HIERRO-AGRONOMOS,Avda de Puerta de Hierro 4500,40.4416770935059,-3.73012351989746,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_1334,1334,AV.PUERTA DE HIERRO-PALACIO MONCLOA,Avda de Puerta de Hierro 6,40.4441452026367,-3.73187184333801,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_1335,1335,AV.PUERTA DE HIERRO-PALACIO MONCLOA,Avda de Puerta de Hierro 4900,40.4440498352051,-3.73234248161316,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_1338,1338,FACULTAD DE VETERINARIA,Avda de Puerta de Hierro 5600,40.4493637084961,-3.73689317703247,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20152,20152,ALTO DE LAS CABAÑAS-CMNO.VIEJO DE MADRID,Cmno   Viejo de Madrid 5,40.4891357421875,-3.86482238769531,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20229,20229,CºVIEJO DE MADRID-TORREÓN,Cmno   Viejo de Madrid 22,40.4875602722168,-3.86219453811646,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20230,20230,LÓPEZ SANTOS-CºVIEJO DE MADRID,Calle de López Santos 4,40.4840927124023,-3.85752511024475,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_23,23,ESCUELA UNIVERSITARIA DE ESTADISTICA,Avda de Puerta de Hierro 5400,40.4483261108398,-3.73622155189514,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_4311,4311,AV.PADRE HUIDOBRO-CAMARINES,Avda del Padre Huidobro 8900,40.4617233276367,-3.76926326751709,B1,http://www.crtm.es,0,,Europe/Madrid,0
+est_90_14,14,Intercambiador de Moncloa,Plaza de la Moncloa 1,40.43523,-3.71919,A,http://www.crtm.es,1,,Europe/Madrid,0
+par_8_06105,06105,CTRA.A6-ITV,Calle de la Vía de Servicio de las Rozas 1,40.5105400085449,-3.87823438644409,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06106,06106,CTRA.A6-URB.PINAR DE LAS ROZAS,Calle de la Vía de Servicio de las Rozas sn,40.516845703125,-3.88387656211853,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06107,06107,CTRA.A6-EST.PINAR,Avda de los Bomberos 2,40.521411895752,-3.88535308837891,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06108,06108,CTRA.A6-PºTREN TALGO,Calle de la Vía de Servicio de las Rozas 1,40.5312843322754,-3.88689994812012,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06109,06109,CTRA.A6-URB.PUNTA GALEA,Calle de la Vía de Servicio de las Rozas 1,40.5373344421387,-3.88956570625305,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06117,06117,CºGARZO-MAESTRO TURINA,Cmno del Garzo 7,40.5495567321777,-3.89219570159912,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06118,06118,ENRIQUE GRANADOS-CºGARZO,Calle  Enrique Granados 17,40.5519332885742,-3.8903021812439,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06119,06119,PºLOS ALEMANES-MIRASIERRA,Paseo de los Alemanes 35,40.5532989501953,-3.89297771453857,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06127,06127,CTRA.A6-TALLERES RENFE,Ctra   Vía Servicio Carretera de A Coruña 23000,40.5310325622559,-3.88806533813477,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06128,06128,CTRA.A6-EST.PINAR,Avda   Noroeste 13,40.5197677612305,-3.88720846176147,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06129,06129,CTRA.A6-RESIDENCIA DE ANCIANOS,Avda   Noroeste 9,40.5160942077637,-3.88436245918274,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06173,06173,COMUNIDAD CASTILLA LA MANCHA-AV.ESPAÑA,Calle de la Comunidad Castilla-La Mancha 70,40.4883422851563,-3.87814545631409,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06238,06238,COMUNIDAD CASTILLA LA MANCHA-BURGOCENTRO,Calle de la Comunidad Castilla-La Mancha 1,40.4902182380433,-3.87658094356413,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09804,09804,CTRA.A6-PLAYA DE LAS AMÉRICAS,Calle de la Vía de Servicio de las Rozas 1,40.5414848327637,-3.89217114448547,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09807,09807,CTRA.A6-PARQUE EMPRESARIAL LAS ROZAS,Ctra   Vía Servicio Carretera de A Coruña sn,40.5274047851563,-3.88734459877014,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09808,09808,CTRA.A6-TALLERES RENFE,Calle de la Vía de Servicio de las Rozas 1,40.5274772644043,-3.88640093803406,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_18519,18519,PLASENCIA-BARRIO DE RENFE,Calle   Martín Iriarte 26,40.54541015625,-3.89157366752625,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18520,18520,MARTÍN IRIARTE-Nº59,Calle   Martín Iriarte 45,40.5487861633301,-3.89305925369263,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_2419,2419,MONCLOA,Calle de la Princesa 92,40.4338912963867,-3.71886253356934,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_06179,06179,CTRA.M509-URB.VILLAFRANCA DEL CASTILLO,Ctra   M-509 (Majadahonda-Valdemorillo) 4200,40.4845771789551,-3.93874192237854,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06180,06180,AV.CASTILLOS-CASTILLO DE ANDRADE,Calle   Castillo de Andrade 1,40.4831771850586,-3.93800258636475,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06181,06181,CASTILLO ANTEQUERA-CASTILLO BARCIENCE,Calle   Castillo de Antequera 24,40.4811592102051,-3.9415020942688,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06182,06182,CASTILLO ANTEQUERA-COLEGIO INTERNACIONAL,Calle   Castillo de Antequera 88,40.4712104797363,-3.94269633293152,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06183,06183,CASTILLO ANTEQUERA-CASTILLO MALPICA,Calle   Castillo de Antequera 104,40.4683265686035,-3.94303345680237,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06184,06184,VALLE DEL RONCAL-CONSULTORIO MÉDICO,Calle   Valle del Roncal 1,40.4660530090332,-3.94774341583252,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06185,06185,VALLE DEL RONCAL-Nº39,Calle   Valle del Roncal 39,40.4663009643555,-3.95471811294556,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06186,06186,VALLE DE LA OROTAVA-URB.MOCHA CHICA,Calle   Valle de la Orotava 1,40.4652404785156,-3.95576453208923,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06187,06187,PIEDRAS VIVAS-URB.PIEDRAS VIVAS,Calle   Piedras Vivas 25,40.4650192260742,-3.95284795761108,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06188,06188,VALLE DEL RONCAL-CONSULTORIO MÉDICO,Calle  Valle del Roncal SN,40.466121673584,-3.94701290130615,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06189,06189,CASTILLO ANTEQUERA-CASTILLO MALPICA,Calle   Castillo de Antequera 104,40.4682731628418,-3.94292640686035,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06192,06192,AV.CASTILLOS-CENTRO COMERCIAL,Avda   Castillos 2,40.4833526611328,-3.93779277801514,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09005,09005,CASTILLO SIGÜENZA-CASTILLO CARDONA,Calle   Castillo de Sigüenza 1,40.4674110412598,-3.9570574760437,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09006,09006,VALLE DEL RONCAL-COLEGIO,Calle   Valle del Roncal 47,40.4663391113281,-3.95683002471924,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09082,09082,VALLE DE ESTERIBAR-CENTRO CÍVICO,Calle  Valle de Esteribar 3,40.4649429321289,-3.94929647445679,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10468,10468,CTRA.M851-CTRA.M505,Ctra del Pardillo SN,40.4993324279785,-3.899165391922,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10469,10469,CTRA.M509-URB.ENTREÁLAMOS,Ctra   M-509 (Villanueva del Pardillo) 3400,40.4841499328613,-3.93138527870178,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10470,10470,CTRA.M509-URB.ENTREÁLAMOS,Ctra   M-509 (Villanueva del Pardillo) 3400,40.4839248657227,-3.93161821365356,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10586,10586,AV.CASTILLOS-CASTILLO BARCIENCE,Avda   Castillos 10,40.4811935424805,-3.93834090232849,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10587,10587,AV.CASTILLOS-CASTILLO CUÉLLAR,Avda   Castillos 10,40.4811935424805,-3.93811655044556,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10588,10588,CASTILLO ANTEQUERA-CASTILLO PEÑAFIEL,Calle   Castillo de Antequera 48,40.4770736694336,-3.94198775291443,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10589,10589,CASTILLO ANTEQUERA-UNIVERSIDAD,Calle   Castillo de Antequera 80,40.4730987548828,-3.94236874580383,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10590,10590,CASTILLO ANTEQUERA-UNIVERSIDAD,Calle   Castillo de Antequera 76,40.4732398986816,-3.94245338439941,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10591,10591,CASTILLO ANTEQUERA-COLEGIO INTERNACIONAL,Calle   Castillo de Antequera 88,40.4709968566895,-3.94257521629334,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10592,10592,CASTILLO PONFERRADA-CASTILLO ATIENZA,Calle   Castillo de Ponferrada 14,40.4667053222656,-3.94855451583862,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10593,10593,CASTILLO PONFERRADA-Nº34,Calle   Castillo de Ponferrada 36,40.4669151306152,-3.95367693901062,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10595,10595,CASTILLO PONFERRADA-Nº35,Calle   Castillo de Ponferrada 38,40.4668655395508,-3.95423054695129,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10596,10596,CASTILLO PONFERRADA-CASTILLO ATIENZA,Calle   Castillo de Ponferrada 11,40.4666404724121,-3.94880151748657,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11150,11150,CASTILLO PONFERRADA-CASTILLO GOMAR,Calle  Castillo de Ponferrada 2,40.4670639038086,-3.94420719146729,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11151,11151,VALLE DE ULZAMA-VALLE DEL TIÉTAR,Calle   Valle de Ulzama 69,40.4638519287109,-3.94613194465637,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11152,11152,CTRA.M503-URB.VILLAFRANCA DEL CASTILLO,Ctra de Acceso a las Urbanizaciones 1,40.4589424133301,-3.94688868522644,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11153,11153,CTRA.M503-URB.VILLAFRANCA DEL CASTILLO,Ctra de Acceso a las Urbanizaciones 1,40.4589538574219,-3.94664096832275,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11154,11154,VALLE DE ULZAMA-VALLE DEL TIÉTAR,Calle   Valle de Ulzama 69,40.4639053344727,-3.94602656364441,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11155,11155,CASTILLO PONFERRADA-CASTILLO GOMAR,Calle  Castillo de Ponferrada 2,40.4668884277344,-3.94465279579163,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17971,17971,CASTILLO ANTEQUERA-CASTILLO PEÑAFIEL,Calle   Castillo de Antequera 54,40.4767570495605,-3.94193625450134,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18285,18285,CASTILLO ANTEQUERA-CASTILLO BARCIENCE,Calle   Castillo de Antequera 24,40.4812316894531,-3.94138526916504,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19290,19290,VALLE DEL RONCAL-Nº10,Calle   Valle del Roncal 11,40.4661827087402,-3.9516613483429,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20424,20424,Cº BAJO  DEL CASTILLO-AG.ESPACIAL EUROPEA,Cmno   Bajo del Castillo sn,40.4452476501465,-3.95280456542969,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_11234,11234,CºTOMILLARÓN-URB.EL COTO,Cmno de Tomillarón 11,40.4917182922363,-3.86417126655579,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11235,11235,CºTOMILLARÓN-URB.EL COTO,Cmno de Tomillarón 8,40.4916381835938,-3.86408758163452,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11236,11236,SANTA MARÍA-SAN JUAN BAUTISTA,Calle de Santa María 13,40.493350982666,-3.86400318145752,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11237,11237,SANTA MARÍA-SAN JUAN BAUTISTA,Calle de Santa María 13,40.4934043884277,-3.86389780044556,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11238,11238,SANTA MARÍA-SANTA ISABEL,Calle de Santa María 12,40.4947624206543,-3.86633443832397,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11239,11239,SANTA MARÍA-SANTA ISABEL,Calle de Santa María 12,40.4948539733887,-3.86625289916992,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11240,11240,AZALEA-SAN SEBASTIÁN,Calle de Azalea 2,40.4958381652832,-3.86873197555542,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17987,17987,AZALEA-LAUREL,Calle de Azalea 14,40.4979782104492,-3.87004590034485,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_17988,17988,AZALEA-LAUREL,Calle de Azalea 14,40.497932434082,-3.87023401260376,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_17989,17989,ACANTO-PINOS,Calle   Acanto 1,40.4998092651367,-3.86534881591797,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_17990,17990,ACANTO-PINOS,Calle   Acanto 1,40.5000152587891,-3.86538696289063,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19095,19095,AZALEA-HORTENSIA,Calle de Azalea 2,40.4959449768066,-3.86859154701233,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20099,20099,ACANTO-CENTRO DE SALUD,Calle   Acanto 1,40.4974555969238,-3.86173105239868,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20100,20100,ACANTO-CENTRO DE SALUD,Calle   Acanto 1,40.4975929260254,-3.86154413223267,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20101,20101,ACANTO-TOMILLARON,Calle   Acanto 1,40.4956474304199,-3.85930061340332,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20939,20939,ACANTO-JACINTO,Calle   Acanto SN,40.5001335144043,-3.86981415748596,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20940,20940,ACANTO-JACINTO,Calle   Acanto SN,40.4999084472656,-3.86970496177673,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_06111,06111,GTA.URGULL-MONTE ULIA,Gta  Urgull SN,40.5572509765625,-3.90281009674072,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06413,06413,AV.NUESTRA.SRA.DEL RETAMAR-CEMENTERIO,Avda de Nuestra Señora del Retamar 12,40.5035400390625,-3.88760828971863,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06513,06513,AV.NUESTRA SRA.DEL RETAMAR-MARÍA CURIE,Avenida  Nuestra Señora del Retamar sn,40.5015716552734,-3.88687419891357,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06514,06514,AV.NUESTRA SRA.RETAMAR-CABO RUFINO LÁZARO,Avenida  Nuestra Señora del Retamar SN,40.5015258789063,-3.88707423210144,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09553,09553,AV.NUESTRA SRA.RETAMAR-RECINTO FERIAL,Avda de Nuestra Señora del Retamar 3,40.5097351074219,-3.89134907722473,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09554,09554,TRVA.NAVALCARBÓN-POLIDEPORTIVO,Avda de Nuestra Señora del Retamar 16,40.5072746276855,-3.89023065567017,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09555,09555,AV.NUESTRA.SRA.DEL RETAMAR-CEMENTERIO,Avda de Nuestra Señora del Retamar 12,40.5040855407715,-3.88785147666931,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09809,09809,TRVA.NAVALCARBÓN-POLIDEPORTIVO,Avda de Nuestra Señora del Retamar 16,40.5077438354492,-3.89018964767456,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11955,11955,PLAYA LAS AMÉRICAS-PLAYA RIBEIRA,Calle  Playa de Ribeira 39,40.541446685791,-3.89948034286499,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11956,11956,AV.MARSIL-IGLESIA,Avda de Marsil 28,40.5454254150391,-3.90208435058594,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11957,11957,AV.MARSIL-CASETA DE GUARDIA,Avda de Marsil 4,40.5483016967773,-3.89733982086182,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11958,11958,APEADERO-EST.LAS MATAS,Calle   Apeadero 6,40.5521011352539,-3.89746141433716,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11959,11959,CTRA.CORUÑA-EST.LAS MATAS,Ctra   Vía Servicio Carretera de A Coruña SN,40.5519701248567,-3.89806580142118,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11960,11960,CTRA.A6-URB.ENCINAR DE LAS ROZAS,Ctra   Vía de servicio Carretera de A Coruña 20,40.557201385498,-3.89967942237854,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11961,11961,CTRA.A6-URB.ENCINAR DE LAS ROZAS,Calle  Monte Casino 24,40.5568950427984,-3.90074190382946,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12009,12009,TRVA.NAVALCARBÓN-RECINTO FERIAL,Avda de Nuestra Señora del Retamar 3,40.5096168518066,-3.89148902893066,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12366,12366,AV.NUESTRA SRA.RETAMAR-PZA.CONCORDIA,Avenida  Nuestra Señora del Retamar SN,40.4960823059082,-3.88256549835205,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12367,12367,AV.NUESTRA SRA.RETAMAR-PZA.CONCORDIA,Avenida   Nuestra Señora del Retamar sn,40.4962539672852,-3.88242626190186,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15463,15463,PANAMÁ-CHILE,Calle  Panamá 1,40.5428199768066,-3.90131735801697,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15717,15717,REAL-BIBLIOTECA,Calle  Real 54,40.4895858764648,-3.8674476146698,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15718,15718,REAL-BIBLIOTECA,Calle  Real 52,40.4895706176758,-3.86790776252747,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15719,15719,AV.POLIDEPORTIVO-AUDITORIO,Avda   Polideportivo 20,40.4954566955566,-3.8794891834259,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15720,15720,AV.POLIDEPORTIVO-AUDITORIO,Avda  Polideportivo 15,40.4952354431152,-3.87903785705566,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06193,06193,CTRA.M509-URB.SANTA MARÍA,Calle   Santa María del Retamar 4900,40.487606048584,-3.9460289478302,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06196,06196,CTRA.M509-AV.LOS PINOS,Ctra  M-509 (Majadahonda-Valdemorillo) 1,40.4855422973633,-3.97330236434937,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06198,06198,CTRA.M509-LOS PINOS,Ctra   M-509 (Majadahonda-Valdemorillo) 7400,40.4854278564453,-3.9729585647583,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06199,06199,AV.MADRID-RECAUDACIÓN,Avda de Madrid 14,40.4890594482422,-3.96325278282166,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06200,06200,AV.MADRID-ADOLFO SUÁREZ,Calle   Adolfo Suárez 13,40.4892120361328,-3.96344375610352,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06201,06201,CTRA.M509-URB.SANTA MARÍA,Avda de Picos de Europa 2,40.4868774414063,-3.94588875770569,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06211,06211,AV.REYES CATÓLICOS-AV.GUADARRAMA,Avda   Reyes Católicos 11,40.4792126320758,-3.87020860412162,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06212,06212,AV.REYES CATÓLICOS-PZA.CRUZ,Avda   Reyes Católicos 1,40.4744930730674,-3.87245984628529,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06215,06215,AV.REYES CATÓLICOS-COLOMBIA,Avda   Reyes Católicos 4,40.4750709147675,-3.87229037221319,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06216,06216,AV.REYES CATÓLICOS-AV.ESPAÑA,Avda  Reyes Católicos 11,40.4794386291129,-3.87010534317582,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06236,06236,DOCTOR CALERO-JARDINILLOS,Calle   Doctor Calero 16,40.4740305360334,-3.87167527333137,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06237,06237,AV.REYES CATÓLICOS-PANAMÁ,Avda   Reyes Católicos 10,40.4770421131163,-3.87132491355892,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06244,06244,AV.ESPAÑA-EL ZOCO,Avda   España 53,40.4662456391127,-3.86705697874913,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06248,06248,AV.REYES CATÓLICOS-STA.BEATRÍZ DE SILVA,Avda   Reyes Católicos 6600,40.4822743017843,-3.86918630534975,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06249,06249,REYES CATÓLICOS-RAMÓN Y CAJAL,Avda   Reyes Católicos 7,40.4770858185116,-3.87150243794784,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06250,06250,DOCTOR CALERO-JARDINILLOS,Calle   Doctor Calero 28,40.4739016418607,-3.87084783520656,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06777,06777,NORIA-GUARDIA CIVIL,Calle   Noria 13,40.4501152038574,-4.00260305404663,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08791,08791,CTRA.POZUELO-INS.NACIONAL DE SANIDAD,Ctra de Pozuelo de Alarcón 3900,40.4591111617398,-3.86337982162338,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08792,08792,CTRA.POZUELO-INS.NACIONAL DE SANIDAD,Ctra de Pozuelo de Alarcón 3900,40.4589313549982,-3.86333034315242,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08798,08798,CTRA.M503-CENTRO EDUC.ESPECIAL,Cmno   Finca Virgen de Lourdes 2,40.4551311770343,-3.87985149102773,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09007,09007,RONDA DE LA RAYA-HALCONERÍA,Cmno de la Raya 1,40.4275550842285,-3.97758221626282,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09408,09408,AV.ESPAÑA-CERVANTES,Avda   España 26,40.4718319486311,-3.86814331962834,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09410,09410,AV.ESPAÑA-CERVANTES,Avda   España 5500,40.4721298302665,-3.86806458117366,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09963,09963,AV.DEHESA-MIGUEL UNAMUNO,Avda  Dehesa 1,40.4550743103027,-4.00512981414795,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10480,10480,CETRERÍA-URB.GUADAMONTE,Calle   Cetrería 7,40.4221076965332,-3.97268223762512,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10489,10489,CTRA.VILLANUEVA-LOS BREZOS,Ctra   M-503 (Villanueva del Pardillo) 27000,40.4640846252441,-4.01215219497681,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10490,10490,CTRA.VILLANUEVA-LOS BREZOS,Ctra   M-503 (Villanueva del Pardillo) 26900,40.4642753601074,-4.01181316375732,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10864,10864,CºRAYA-ROSAS,Cmno de la Raya 27,40.4323196411133,-3.97874760627747,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10865,10865,RONDA RAYA-ANADERO,Ronda   Raya 54,40.4320373535156,-3.97880244255066,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10968,10968,CºMÓSTOLES-AV.DEHESA,Cmno   Móstoles 16,40.4420928955078,-3.99988961219788,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10969,10969,CºMÓSTOLES-AV.DEHESA,Cmno   Móstoles 16,40.442138671875,-3.99979591369629,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10970,10970,HALCÓN-PIHUELAS,Calle   Halcón 11,40.4243125915527,-3.97318553924561,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11017,11017,RONDA DE LA RAYA-ORQUÍDEAS,Ronda de la Raya 1,40.4272651672363,-3.97762513160706,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11019,11019,AV.REYES CATÓLICOS-STA.BEATRÍZ DE SILVA,Avda   Reyes Católicos 6600,40.482248608806,-3.86900900101658,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11157,11157,CºMÓSTOLES-ERAS DE MÓSTOLES,Cmno  Móstoles 2,40.4444274902344,-4.00267171859741,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11385,11385,MORERAS-C.C.CENTRO OESTE,Calle   Moreras SN,40.4537241905589,-3.86934898312174,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11386,11386,FRESA-PALACIO DE HIELO,Calle   Fresa 14,40.4535516925267,-3.87191767113642,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11417,11417,LIMONERO-CIRUELA,Calle  Limonero 6,40.4567630775963,-3.87254887406512,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11418,11418,FRESA-EQUINOCIO,Calle  Fresa 1,40.4555665481093,-3.8735240501238,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11420,11420,AV.ESPAÑA-HUERTO,Avda   España 4400,40.4622798585233,-3.86610958461527,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11421,11421,AV.ESPAÑA-CTRA.POZUELO,Avda   España 70,40.4621078237986,-3.866225321595,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11613,11613,AZUCENAS-GÓNGORA,Calle  Azucenas 29,40.453727722168,-3.99946069717407,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11962,11962,RONDA DE LA RAYA-ÁGUILAS,Ronda de la Raya 42,40.4299545288086,-3.97800612449646,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11963,11963,RONDA DE LA RAYA-ÁGUILAS,Ronda   Raya 42,40.4299736022949,-3.97791194915771,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11964,11964,RONDA DE LA RAYA-AZOR,Ronda   Raya 26,40.4245834350586,-3.97616004943848,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11965,11965,TRVA.SEÑUELO-RONDA DE LA RAYA,Trva   Señuelo 4,40.4253387451172,-3.97638320922852,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12016,12016,MORERAS-ESCUELA DE FÚTBOL,Calle   Moreras 13,40.4559840979752,-3.86592258807531,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12017,12017,MORERAS-ESCUELA DE FÚTBOL,Calle  Moreras 13,40.4561615185549,-3.86508751825753,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12271,12271,AV.ESPAÑA-LOS OLMOS,Avda  España 45,40.468962140113,-3.86761093499713,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12659,12659,REAL-LARRA,Calle   Real 1 B,40.4520835876465,-4.00719594955444,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12954,12954,YUCATÁN-CANENCIA,Ctra   Rozas-Majadahonda 7000,40.4843445607197,-3.86822193279809,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12987,12987,AV.ESPAÑA-PARQUE COLÓN,Avda  España 45,40.4688441515765,-3.86772737496964,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12995,12995,AV.ESPAÑA-EL ZOCO,Avda   España 4900,40.4665683319198,-3.86727344688043,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_13038,13038,VELÁZQUEZ-C.C.CENTRO OESTE,Calle  Velázquez 37,40.4533838855783,-3.86667934670326,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_13042,13042,VELÁZQUEZ-C.C.CENTRO OESTE,Calle  Velázquez 37,40.4533137668132,-3.86641899685071,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15347,15347,CTRA.M509-SAN JOSÉ CALASANZ,Avda de Madrid 6700,40.4880905151367,-3.96625971794128,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15348,15348,CTRA.M509-SANTO TOMÁS,Calle   Santo Tomás 2,40.4879913330078,-3.96601033210754,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15357,15357,CºOLIVAR-URB.LAS VELISAS,Cmno del Olivar 1,40.4355773925781,-3.9831690788269,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15358,15358,CºOLIVAR-URB.LAS VELISAS,Cmno de Villanueva de la Cañada al Castillo SN,40.4358291625977,-3.98311376571655,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15845,15845,CTRA.M509-ALADIERNA,Avda de Madrid 6200,40.4905624389648,-3.96011209487915,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15846,15846,CTRA.M509-SANTA ANA,Avda de Madrid 6200,40.4902610778809,-3.95982456207275,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17684,17684,MANUEL FALLA-URG.HOSPITAL PTA.DE HIERRO,Calle   Manuel de Falla 35,40.4517499429848,-3.87549120192832,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17840,17840,CTRA.POZUELO-AV. REY JUAN CARLOS I,Ctra  Pozuelo 38,40.4609606376178,-3.86543214993622,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18854,18854,VELÁZQUEZ-JOAQUÍN TURINA,Calle   Velázquez 71,40.4484756830949,-3.86766580206686,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18855,18855,VELÁZQUEZ-JOAQUÍN TURINA,Calle   Velázquez 71,40.4486669741516,-3.8673852467147,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19285,19285,EL BARBERO DE SEVILLA-ROZA MARTÍN,Calle de El Barbero de Sevilla 1,40.4538030957063,-3.887417199601,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19382,19382,CTRA.M509-URB.LAS VEGAS,Ctra   M-509 (Majadahonda-Valdemorillo) 4400,40.485538482666,-3.94126844406128,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19434,19434,CTRA.M509-POL.INDUSTRIAL,Ctra   M-509 (Majadahonda-Valdemorillo) 8200,40.4838714599609,-3.98239850997925,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19517,19517,EL BARBERO DE SEVILLA-ROZA MARTÍN,Calle de El Barbero de Sevilla 1,40.4536758985545,-3.88755704431538,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20032,20032,CºLAS FUENTES-AV.ESPAÑA,Cmno de las Fuentes 1,40.4397430419922,-3.99209642410278,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20033,20033,CºLAS FUENTES-AV.ESPAÑA,Cmno de las Fuentes 1,40.4398422241211,-3.99216866493225,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20153,20153,EL BARBERO DE SEVILLA-BODAS DE FÍGARO,Calle de El Barbero de Sevilla 1,40.4510610737453,-3.8843268094417,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20154,20154,EL BARBERO DE SEVILLA-BODAS DE FÍGARO,Calle de El Barbero de Sevilla 1,40.4512700598595,-3.88409369388797,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_21108,21108,CºTOMILLARÓN-CºCERRO DE LA PALOMA,Cmno de Tomillarón 23,40.4928855895996,-3.86214470863342,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_21109,21109,CºTOMILLARÓN-SAN PABLO,Cmno de Tomillarón 25,40.4928512573242,-3.86192011833191,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_06178,06178,AV.DOCTOR MARAÑÓN-PZA.LAGUNA VIEJA,Avda  Doctor Marañón 4,40.4741669174362,-3.87508630556982,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06203,06203,AV.DOCTOR MARAÑÓN-PZA.LAGUNA VIEJA,Avda   Doctor Marañón 11,40.4735520357693,-3.87657649932226,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06232,06232,CTRA.PLANTÍO-LOS SAUCES,Ctra   M-509 (Plantío) 35,40.4752142582869,-3.85308676780758,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06233,06233,CTRA.PLANTÍO-NOVOTIENDAS,Ctra  M-509 (Plantío) 13,40.4747994064247,-3.85922769974479,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06234,06234,CTRA.PLANTÍO-CERRO DEL AIRE,Ctra   M-509 (Plantío) 5,40.4744051272718,-3.86257297161108,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06235,06235,DOCTOR CALERO-NICARAGUA,Calle   Doctor Calero 54,40.4739097930397,-3.86736790404584,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06242,06242,AV.DOCTOR MARAÑÓN-SAN ROQUE,Avda   Doctor Marañón 49,40.4732402127153,-3.87967495303915,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06251,06251,DOCTOR CALERO-FUNDADORES,Calle   Doctor Calero 56,40.4738670546483,-3.8670606391523,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06252,06252,CTRA.PLANTÍO-CERRO DEL AIRE,Ctra  M-509 (Plantío) 2,40.474276814955,-3.86286624954317,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06253,06253,CTRA.PLANTÍO-NOVOTIENDAS,Ctra   M-509 (Plantío) 6,40.4747025110774,-3.85893154256279,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06254,06254,CTRA.PLANTÍO-LOS SAUCES,Ctra   M-509 (Plantío) 40,40.4750807930671,-3.85286093651382,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11857,11857,AV.DOCTOR MARAÑÓN-DR.JIMÉNEZ DÍAZ,Avda  Doctor Marañón 47,40.4733097289465,-3.87882650338758,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12211,12211,AV.GUADARRAMA-CONCEPCIÓN,Avda de Guadarrama 19,40.4905395507813,-3.96209406852722,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12212,12212,AV.GUADARRAMA-CONCEPCIÓN,Avda de Guadarrama 19,40.4905395507813,-3.96211767196655,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12213,12213,RAMÓN Y CAJAL-PALOMA,Calle   Ramón y Cajal 0,40.4937782287598,-3.96477174758911,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12214,12214,RAMÓN Y CAJAL-PALOMA,Calle   Ramón y Cajal 12,40.4935569763184,-3.96515798568726,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_13003,13003,NORIAS-EST.MAJADAHONDA,Calle   Norias 175,40.4745409093502,-3.84787583278218,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15120,15120,CºREAL-AV.JUAN CARLOS I,Cmno   Real 33,40.4961395263672,-3.96651673316956,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15121,15121,CºREAL-VALLE DEL CERRATO,Cmno  Real 33,40.4961585998535,-3.96671748161316,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15122,15122,CºREAL-RÍO EBRO,Cmno   Real 30,40.4989891052246,-3.96750164031982,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15123,15123,CºREAL-SIERRA DE MONCALVILLO,Cmno  Real 45,40.4989700317383,-3.96766662597656,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15124,15124,CºREAL-RÍO MIÑO,Cmno  Real 50,40.5017280578613,-3.96850872039795,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15125,15125,CºREAL-SIERRA DE PEDROSO,Cmno  Real 93,40.5018501281738,-3.96879386901855,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17330,17330,AV.DOCTOR MARAÑÓN-AV.GUADARRAMA,Avda   Doctor Marañón 51,40.4739349361173,-3.88190180568158,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17331,17331,AV.DOCTOR MARAÑÓN-MIGUEL HERNÁNDEZ,Avda   Doctor Marañón 51,40.4738092757193,-3.88184117795745,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_19412,19412,CTRA.M509-URB.VILLAFRANCA DEL CASTILLO,Ctra   M-509 (Majadahonda-Valdemorillo) 4300,40.4846038818359,-3.93978047370911,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_06149,06149,CTRA.M505-BURGOCENTRO,Ctra del Escorial 1300,40.4909934997559,-3.87664604187012,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11139,11139,ERAS-CALVARIO,Calle de las Eras 34 D,40.4020347595215,-4.00119400024414,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11156,11156,ERAS-CALVARIO,Calle del Calvario 24,40.4017753601074,-4.00101327896118,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11158,11158,ERAS-ARCOS,Calle de las Eras 68,40.4054336547852,-4.00410795211792,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11159,11159,ERAS-ARCOS,Calle de las Eras 53,40.4061012268066,-4.00409412384033,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11160,11160,ERAS-CEMENTERIO,Calle de las Eras 110,40.4093017578125,-4.00265693664551,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11161,11161,AV.DEHESA-CºMÓSTOLES,Avda   Dehesa 2,40.4421806335449,-3.99908900260925,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11162,11162,AV.DEHESA-CºMÓSTOLES,Avda  Dehesa 2,40.4421539306641,-3.99886465072632,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11163,11163,AV.DEHESA-ESPEJO,Avda   Dehesa 2,40.4455184936523,-3.99747586250305,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11164,11164,AV.DEHESA-URUGUAY,Avda   Dehesa 2,40.4455375671387,-3.99729919433594,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11508,11508,ERAS-CARDEÑAS,Calle de las Eras 25,40.4010467529297,-3.99871635437012,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11509,11509,ERAS-CARDEÑAS,Calle de las Eras 20,40.4012031555176,-3.99876570701599,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12658,12658,REAL-LARRA,Calle   Real 1 B,40.4521102905273,-4.00706672668457,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17007,17007,AV.DEHESA-MIGUEL DE UNAMUNO,Avda   Dehesa 1,40.4551620483398,-4.00417566299438,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17008,17008,AV.MIRASIERRA-RONCESVALLES,Avda   Mirasierra 2,40.4549293518066,-3.99694275856018,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17009,17009,AV.MIRASIERRA-RONCESVALLES,Avda   Mirasierra 2,40.4546699523926,-3.99745798110962,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17011,17011,AV.ESPAÑA-PQUE.ACUÁTICO,Avda de España 1,40.4564056396484,-3.99260091781616,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_18160,18160,AV.RIOJA-CLUB DEPORTIVO,Avda de la Rioja 17,40.439811706543,-4.00011539459229,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18161,18161,NAVARRA-AV.DEHESA,Calle   Navarra 130,40.4411087036133,-4.00001668930054,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18162,18162,AV.RIOJA-COLEGIO,Avda de la Rioja 14,40.4372520446777,-3.99822616577148,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18163,18163,AV.RIOJA-COLEGIO,Avda de la Rioja 14,40.4376106262207,-3.99813723564148,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18164,18164,AV.RIOJA-Nº26,Avda de la Rioja 24,40.4354286193848,-3.99850583076477,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18165,18165,AV.RIOJA-Nº51,Avda de la Rioja 55,40.4353294372559,-3.9983274936676,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18936,18936,AV.ESPAÑA-PQUE.ACUÁTICO,Avda de España 1,40.4562683105469,-3.99307060241699,B3,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_11824,11824,CAMILO JOSÉ CELA-J.RAMÓN JIMÉNEZ,Calle   Camilo José Cela 1,40.5175666809082,-3.89900755882263,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11827,11827,CAMILO JOSÉ CELA-J.RAMÓN JIMÉNEZ,Calle   Camilo José Cela 2,40.5173187255859,-3.89862656593323,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11828,11828,CAMILO JOSÉ CELA-SEVERO OCHOA,Calle  Camilo José Cela 3,40.5202903747559,-3.89660024642944,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11829,11829,CAMILO JOSÉ CELA-SEVERO OCHOA,Calle  Camilo José Cela 10,40.519775390625,-3.89570808410645,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11830,11830,SEVERO OCHOA-PABLO NERUDA,Calle   Severo Ochoa 2,40.5189247131348,-3.89262747764587,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11831,11831,SEVERO OCHOA-PABLO NERUDA,Calle   Severo Ochoa 1,40.5183258056641,-3.89286756515503,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15212,15212,ARISTÓTELES-AV.ATENAS,Avda   Lazarejo 1,40.5167427062988,-3.92489528656006,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15213,15213,AV.LAZAREJO-SANTOLINA,Avda   Lazarejo 5,40.5173454284668,-3.92852759361267,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15214,15214,AV.LAZAREJO-SANTOLINA,Avda   Lazarejo 5,40.5174102783203,-3.92825698852539,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15215,15215,AV.LAZAREJO-KALAMOS,Calle  Petunias 1,40.5201606750488,-3.92999482154846,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15216,15216,AV.LAZAREJO-KALAMOS,Calle  Kalamos 32,40.5201034545898,-3.93033647537231,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15217,15217,AV.LAZAREJO- JARAS,Avda   Lazarejo 96,40.5258979797363,-3.93230557441711,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15218,15218,AV.LAZAREJO- JARAS,Avda   Lazarejo 23,40.5262031555176,-3.93234515190125,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15219,15219,AV.LAZAREJO-FRESNO,Avda   Lazarejo 307,40.5315399169922,-3.92645668983459,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15220,15220,AV.LAZAREJO-FRESNO,Avda   Lazarejo 307,40.5315818786621,-3.92672872543335,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15221,15221,AV.LAZAREJO-MORERAS,Avda   Lazarejo 292,40.5330657958984,-3.9247419834137,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15222,15222,AV.LAZAREJO-MORERAS,Avda   Lazarejo 292,40.5331573486328,-3.9249439239502,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15223,15223,AV.LAZAREJO-PERALES,Avda  Lazarejo 322,40.5359420776367,-3.92249083518982,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15224,15224,AV.LAZAREJO-ADELFAS,Avda   Lazarejo 322,40.5360107421875,-3.92283415794373,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17254,17254,MARÍA GUERRERO-CºCAMPO DE TIRO,Calle  María Guerrero SN,40.508129119873,-3.87977266311646,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17256,17256,CLARA CAMPOAMOR-ANA TUTOR,Calle  Clara Campoamor SN,40.5054740905762,-3.87980890274048,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17257,17257,EMILIA PARDO BAZÁN-MARIE CURIE,Calle  Emilia Pardo Bazán SN,40.5013160705566,-3.88141846656799,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17258,17258,EMILIA PARDO BAZÁN-MARÍA MOLINER,Calle  Emilia Pardo Bazán SN,40.5013008117676,-3.88100528717041,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17259,17259,EMILIA PARDO BAZÁN-MERCEDES FORMICA,Calle  Emilia Pardo Bazán SN,40.4980964660645,-3.88171863555908,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17260,17260,EMILIA PARDO BAZÁN-CARMEN BURGOS,Calle  Emilia Pardo Bazán SN,40.498119354248,-3.88131761550903,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17261,17261,EMILIA PARDO BAZÁN-PZA.CONCORDIA,Calle   Emilia Pardo Bazán SN,40.4961967468262,-3.88181185722351,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17262,17262,EMILIA PARDO BAZÁN-PZA.CONCORDIA,Calle   Emilia Pardo Bazán SN,40.4962615966797,-3.88160014152527,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_20822,20822,AV.LAZAREJO-GARDENIA,Avda   Lazarejo 18,40.5291709899902,-3.92884421348572,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20823,20823,AV.LAZAREJO-GARDENIA ,Avda   Lazarejo 18,40.5291938781738,-3.92908072471619,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_11372,11372,TURÍN-LONDRES,Calle  Turín 6,40.5015716552734,-3.88936448097229,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11373,11373,TURÍN-LUXEMBURGO,Calle  Turín 3,40.501537322998,-3.8890688419342,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11374,11374,TURÍN-PRAGA,Calle  Turín 36,40.4982795715332,-3.88968682289124,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11375,11375,TURÍN-OSLO,Calle  Turín 17 E,40.498291015625,-3.88939189910889,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12354,12354,CAMILO JOSÉ CELA-JACINTO BENAVENTE,Calle  Camilo José Cela 16,40.5218811035156,-3.89361119270325,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12355,12355,CAMILO JOSÉ CELA-OCTAVIO PAZ,Calle   Camilo José Cela 24,40.5243110656738,-3.89263987541199,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12362,12362,CAMILO JOSÉ CELA-A.PÉREZ ESQUIVEL,Calle  Camilo José Cela 26,40.5262985229492,-3.89297342300415,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12363,12363,CAMILO JOSÉ CELA-A.PEREZ ESQUIVEL,Calle  Camilo José Cela 13,40.5262222290039,-3.8937041759491,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12364,12364,CAMILO JOSÉ CELA-GABRIEL GªMÁRQUEZ,Calle  Camilo José Cela 11,40.5235290527344,-3.89339709281921,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12365,12365,CAMILO JOSÉ CELA-JACINTO BENAVENTE,Calle  Camilo José Cela 7,40.5223426818848,-3.89454984664917,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15703,15703,AV.ESPAÑA-PARQUE PARÍS,Avda de España 163,40.4898719787598,-3.88412427902222,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15704,15704,AV.ESPAÑA-PARQUE PARÍS,Avda de España 171,40.4897956848145,-3.88479590415955,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15705,15705,AV.ESPAÑA-ALICANTE,Avda de España 87,40.4882316589355,-3.88094043731689,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15803,15803,COMUNIDAD ARAGÓN-COMUNIDAD LA RIOJA,Calle  Comunidad de Aragón S/N,40.4931144714355,-3.88534688949585,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15804,15804,AV.GERARD NEVERS-COMUNIDAD ARAGÓN,Avda  Gerard Nevers S/N,40.4935989379883,-3.88557744026184,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_15805,15805,AV.GERARD NEVERS-CTRA.M505,Avda   Gerard Nevers S/N,40.4962921142578,-3.89048671722412,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_20830,20830,JOSE ECHEGARAY-FRENTE Nº 6,Calle   José Echegaray 6,40.5220642089844,-3.89059138298035,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_06150,06150,CTRA.M505-URB.LA CHOPERA,Ctra del Escorial 5,40.5038261413574,-3.9063892364502,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06152,06152,CAMINO REAL-URB.MOLINO DE LA HOZ,Calle  Camino Real 2 B,40.530460357666,-3.94281768798828,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06161,06161,CTRA.M505-URB.MOLINO DE LA HOZ,Ctra del Escorial 8700,40.5295829772949,-3.94347834587097,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_06163,06163,CTRA.M505-URB.LA CHOPERA,Ctra del Escorial 4100,40.5035820007324,-3.90659832954407,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11378,11378,GURIDI-URB.LA CHOPERA,Calle   Guridi 165,40.5047645568848,-3.90714550018311,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11379,11379,CHUECA-VALERA,Calle  Chueca 79,40.5089302062988,-3.90689468383789,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11552,11552,CAMINO REAL-HOTEL,Calle   Camino Real 2,40.5314445495605,-3.94389414787292,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11553,11553,CAMINO REAL-HOTEL,Calle   Camino Real 2 A,40.5312385559082,-3.94372582435608,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11554,11554,CºREAL-RESIDENCIAL MONTESA,Cmno  Real 1,40.5338134765625,-3.9426167011261,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11555,11555,CºREAL-RESIDENCIAL MONTESA,Cmno  Real 1,40.5337333679199,-3.94252109527588,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11556,11556,CºREAL-ZONA ESCOLAR,Cmno  Real 6,40.5375518798828,-3.94067358970642,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11557,11557,CºREAL-ZONA ESCOLAR,Cmno  Real 6,40.5375366210938,-3.94050788879395,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11558,11558,CºREAL-CETRERÍA,Cmno  Real 28,40.5398178100586,-3.93548583984375,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11559,11559,CºREAL-CETRERÍA,Cmno  Real 26,40.5398292541504,-3.93628907203674,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11560,11560,CºREAL-ÁGUILA REAL,Cmno   Real 38,40.5399589538574,-3.93280744552612,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_19895,19895,KALAMOS-AV.LAZAREJO,Calle   Kalamos 30,40.5196762084961,-3.93084979057312,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19896,19896,KALAMOS-AV.LAZAREJO,Calle   Kalamos 30,40.5195045471191,-3.93072938919067,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19897,19897,KALAMOS-CENTRO MUNICIPAL,Calle   Kalamos 32,40.5195198059082,-3.93448352813721,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19898,19898,KALAMOS-CENTRO MUNICIPAL,Calle   Kalamos 32,40.519359588623,-3.93442225456238,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20550,20550,MICENAS-SANTOS,Calle   Micenas 143,40.5207290649414,-3.90967440605164,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20551,20551,MICENAS-SANTOS,Calle   Micenas 122,40.5206298828125,-3.90976738929749,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20552,20552,MICENAS-ANTONIO MACHADO,Calle   Micenas 52,40.5241661071777,-3.91341614723206,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20553,20553,MICENAS-ANTONIO MACHADO,Calle   Micenas 52,40.5240135192871,-3.91341400146484,B2,http://www.crtm.es,0,,Europe/Madrid,0

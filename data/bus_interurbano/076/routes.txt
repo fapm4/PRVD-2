@@ -1,0 +1,60 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__191___,CRTM,191,MADRID (Plaza de Castilla)-BUITRAGO,,3,https://www.crtm.es/8__191___.aspx,8EBF42,FFFFFF
+8__191_A__,CRTM,191A,BUITRAGO-BRAOJOS,,3,https://www.crtm.es/8__191_A__.aspx,8EBF42,FFFFFF
+8__191_B__,CRTM,191B,BUITRAGO-SOMOSIERRA,,3,https://www.crtm.es/8__191_B__.aspx,8EBF42,FFFFFF
+8__191_C__,CRTM,191C,BUITRAGO-MONTEJO DE LA SIERRA,,3,https://www.crtm.es/8__191_C__.aspx,8EBF42,FFFFFF
+8__191_D__,CRTM,191D,BUITRAGO-ROBLEDILLO DE LA JARA,,3,https://www.crtm.es/8__191_D__.aspx,8EBF42,FFFFFF
+8__191_E__,CRTM,191E,BUITRAGO-CERVERA DE BUITRAGO,,3,https://www.crtm.es/8__191_E__.aspx,8EBF42,FFFFFF
+8__193___,CRTM,193,MADRID (Plaza de Castilla)-PEDREZUELA-EL VELLÓN,,3,https://www.crtm.es/8__193___.aspx,8EBF42,FFFFFF
+8__193_A__,CRTM,193A,EL MOLAR-COTOS DE MONTERREY-VENTURADA,,3,https://www.crtm.es/8__193_A__.aspx,8EBF42,FFFFFF
+8__194___,CRTM,194,MADRID (Plaza de Castilla)-RASCAFRÍA,,3,https://www.crtm.es/8__194___.aspx,8EBF42,FFFFFF
+8__194_A__,CRTM,194A,BUITRAGO-LOZOYUELA-RASCAFRÍA,,3,https://www.crtm.es/8__194_A__.aspx,8EBF42,FFFFFF
+8__195___,CRTM,195,MADRID (Plaza de Castilla)-BRAOJOS,,3,https://www.crtm.es/8__195___.aspx,8EBF42,FFFFFF
+8__195_A__,CRTM,195A,CIRCULAR BUITRAGO-GARGANTILLA (Por Lozoyuela),,3,https://www.crtm.es/8__195_A__.aspx,8EBF42,FFFFFF
+8__195_B__,CRTM,195B,CIRCULAR BUITRAGO-GARGANTILLA,,3,https://www.crtm.es/8__195_B__.aspx,8EBF42,FFFFFF
+8__196___,CRTM,196,MADRID (Plaza de Castilla)-LA ACEBEDA,,3,https://www.crtm.es/8__196___.aspx,8EBF42,FFFFFF
+8__197___,CRTM,197,MADRID (Plaza de Castilla)-TORRELAGUNA/UCEDA,,3,https://www.crtm.es/8__197___.aspx,8EBF42,FFFFFF
+8__197_A__,CRTM,197A,TORRELAGUNA-PATONES-UCEDA,,3,https://www.crtm.es/8__197_A__.aspx,8EBF42,FFFFFF
+8__197_B__,CRTM,197B,TORRELAGUNA-EL BERRUECO-LA CABRERA-VALDEMANCO,,3,https://www.crtm.es/8__197_B__.aspx,8EBF42,FFFFFF
+8__197_C__,CRTM,197C,TORRELAGUNA-VENTURADA/CABANILLAS,,3,https://www.crtm.es/8__197_C__.aspx,8EBF42,FFFFFF
+8__197_D__,CRTM,197D,TORRELAGUNA-EL VELLÓN-EL MOLAR,,3,https://www.crtm.es/8__197_D__.aspx,8EBF42,FFFFFF
+8__197_E__,CRTM,197E,TORRELAGUNA-VALDEPIÉLAGOS-TALAMANCA,,3,https://www.crtm.es/8__197_E__.aspx,8EBF42,FFFFFF
+8__199_A__,CRTM,199A,BUITRAGO - MONTEJO - MANJIRÓN - BUITRAGO,,3,https://www.crtm.es/8__199_A__.aspx,8EBF42,FFFFFF
+8__210___,CRTM,210,S. S. DE LOS REYES (Hospital)-PARACUELLOS DE JARAMA,,3,https://www.crtm.es/8__210___.aspx,8EBF42,FFFFFF
+8__211___,CRTM,211,MADRID (Canillejas) - PARACUELLOS,,3,https://www.crtm.es/8__211___.aspx,8EBF42,FFFFFF
+8__212___,CRTM,212,MADRID (Canillejas) - PARACUELLOS (Miramadrid),,3,https://www.crtm.es/8__212___.aspx,8EBF42,FFFFFF
+8__213___,CRTM,213,MADRID (Canillejas) - BELVIS,,3,https://www.crtm.es/8__213___.aspx,8EBF42,FFFFFF
+8__215___,CRTM,215,TORREJÓN DE ARDOZ - PARACUELLOS DE JARAMA,,3,https://www.crtm.es/8__215___.aspx,8EBF42,FFFFFF
+8__220___,CRTM,220,TORREJÓN DE ARDOZ-SAN FERNANDO DE HENARES,,3,https://www.crtm.es/8__220___.aspx,8EBF42,FFFFFF
+8__222___,CRTM,222,MADRID (Avda. América)-MECO,,3,https://www.crtm.es/8__222___.aspx,8EBF42,FFFFFF
+8__223___,CRTM,223,MADRID (Avda. América)-ALCALÁ DE HENARES,,3,https://www.crtm.es/8__223___.aspx,8EBF42,FFFFFF
+8__224___,CRTM,224,MADRID (Avda. América)-TORREJÓN DE ARDOZ,,3,https://www.crtm.es/8__224___.aspx,8EBF42,FFFFFF
+8__224_A__,CRTM,224A,MADRID (Avda. América)-TORREJÓN DE ARDOZ (La Mancha Amarilla),,3,https://www.crtm.es/8__224_A__.aspx,8EBF42,FFFFFF
+8__226___,CRTM,226,MADRID (Avda. América)-TORREJÓN DE ARDOZ (El Soto),,3,https://www.crtm.es/8__226___.aspx,8EBF42,FFFFFF
+8__227___,CRTM,227,MADRID (Avda. América)-ALCALÁ (Espartales-Universidad),,3,https://www.crtm.es/8__227___.aspx,8EBF42,FFFFFF
+8__229___,CRTM,229,MADRID (Avda. América)-ALCALÁ (Virgen del Val),,3,https://www.crtm.es/8__229___.aspx,8EBF42,FFFFFF
+8__231___,CRTM,231,ALCALÁ DE HENARES-URB. ZULEMA-EL VISO,,3,https://www.crtm.es/8__231___.aspx,8EBF42,FFFFFF
+8__232___,CRTM,232,ALCALÁ DE HENARES-TORRES DE LA ALAMEDA,,3,https://www.crtm.es/8__232___.aspx,8EBF42,FFFFFF
+8__250___,CRTM,250,ALCALÁ DE HENARES-MECO,,3,https://www.crtm.es/8__250___.aspx,8EBF42,FFFFFF
+8__251___,CRTM,251,TORREJÓN-VALDEAVERO-ALCALÁ,,3,https://www.crtm.es/8__251___.aspx,8EBF42,FFFFFF
+8__252___,CRTM,252,TORREJÓN-DAGANZO-ALCALÁ,,3,https://www.crtm.es/8__252___.aspx,8EBF42,FFFFFF
+8__254___,CRTM,254,VALDEOLMOS/FUENTE EL SAZ-ALCALÁ DE HENARES,,3,https://www.crtm.es/8__254___.aspx,8EBF42,FFFFFF
+8__255___,CRTM,255,VALDEAVERO-CAMARMA DE ESTERUELAS-ALCALÁ DE HENARES,,3,https://www.crtm.es/8__255___.aspx,8EBF42,FFFFFF
+8__256___,CRTM,256,MADRID (Canillejas)-DAGANZO-VALDEAVERO,,3,https://www.crtm.es/8__256___.aspx,8EBF42,FFFFFF
+8__824___,CRTM,824,MADRID (Aeropuerto) - TORREJÓN DE ARDOZ - ALCALÁ DE HENARES,,3,https://www.crtm.es/8__824___.aspx,8EBF42,FFFFFF
+8__913___,CRTM,913,TORRELAGUNA-EL ATAZAR,,3,https://www.crtm.es/8__913___.aspx,8EBF42,FFFFFF
+8__FS2___,CRTM,FS2,TORRELAGUNA - ALCALÁ DE HENARES,,3,https://www.crtm.es/8__FS2___.aspx,8EBF42,FFFFFF
+8_N_104___,CRTM,N104,MADRID (Plaza de Castilla)-SAN AGUSTÍN DE GUADALIX,,3,https://www.crtm.es/8_N_104___.aspx,8EBF42,FFFFFF
+8_N_202___,CRTM,N202,MADRID (Av. de América) - TORREJÓN - ALCALÁ - MECO,,3,https://www.crtm.es/8_N_202___.aspx,8EBF42,FFFFFF
+8_N_204___,CRTM,N204,MADRID (Canillejas) - PARACUELLOS - DAGANZO,,3,https://www.crtm.es/8_N_204___.aspx,8EBF42,FFFFFF
+9__1__108_,CRTM,1,PEDREZUELA-URBANIZACIONES,,3,https://www.crtm.es/9__1__108_.aspx,E60003,FFFFFF
+9__1__104_,CRTM,1,URB. ALTOS DE JARAMA - MIRAMADRID,,3,https://www.crtm.es/9__1__104_.aspx,E60003,FFFFFF
+9__2__148_,CRTM,2,FRONTERAS-BARRIO CASTILLO-FRESNO,,3,https://www.crtm.es/9__2__148_.aspx,E60003,FFFFFF
+9__2__104_,CRTM,2,PICÓN DEL CURA - URB. LOS BERROCALES,,3,https://www.crtm.es/9__2__104_.aspx,E60003,FFFFFF
+9__3__148_,CRTM,3,LOS FRESNOS - PLAZA DE ESPAÑA - LOS ALMENDROS,,3,https://www.crtm.es/9__3__148_.aspx,E60003,FFFFFF
+9__4__148_,CRTM,4,TORREJÓN-PARQUE CORREDOR,,3,https://www.crtm.es/9__4__148_.aspx,E60003,FFFFFF
+9__6__148_,CRTM,6,PLAZA DE ESPAÑA - OASIZ,,3,https://www.crtm.es/9__6__148_.aspx,E60003,FFFFFF
+9__1_A_148_,CRTM,1A,CIRCULAR TORREJÓN,,3,https://www.crtm.es/9__1_A_148_.aspx,E60003,FFFFFF
+9__1_B_148_,CRTM,1B,CIRCULAR TORREJÓN,,3,https://www.crtm.es/9__1_B_148_.aspx,E60003,FFFFFF
+9__5_A_148_,CRTM,5A,CIRCULAR PARQUE EUROPA,,3,https://www.crtm.es/9__5_A_148_.aspx,E60003,FFFFFF
+9__5_B_148_,CRTM,5B,CIRCULAR PARQUE EUROPA,,3,https://www.crtm.es/9__5_B_148_.aspx,E60003,FFFFFF

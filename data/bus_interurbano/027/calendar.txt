@@ -1,0 +1,3 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+9999_8__171___,1,1,1,1,1,1,1,20241027,20251127
+9999_9__8__134_,1,1,1,1,1,1,1,20241027,20251127
