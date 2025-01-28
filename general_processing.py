@@ -3,6 +3,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 from dash import html, dcc
+import folium
+from general_purpose import add_tourist_spots, add_borders
+from folium.plugins import HeatMap
 
 class GeneralProcessing:
     def __init__(self, listings, gdf):
@@ -10,24 +13,17 @@ class GeneralProcessing:
         self.gdf = gdf
 
     def get_all_graphs(self):
-        # return html.Div([
-		# data,
-		# dcc.Graph(figure=fig_violin),
-		# dcc.Graph(figure=fig_bar),
-		# dcc.Graph(figure=fig_hist)
-	# ])
         fig1 = self.get_alojamientos_por_distrito()
         fig2 = self.get_tipo_de_habitacion_por_distrito()
         fig3 = self.get_precio_promedio_por_distrito()
         fig4 = self.get_violins_plot()
-        fig5 = self.get_precio_promedio_por_distrito()
-        fig6 = self.get_dist_precio_por_hab()
-        fig7 = self.get_rel_precio_tam()
-        fig8 = self.get_rel_cal_precio()
+        fig5 = self.get_dist_precio_por_hab()
+        fig6 = self.get_rel_precio_tam()
+        fig7 = self.get_rel_cal_precio()
 
-        fig_9_1, fig_9_2, fig_9_3 = self.get_rel_precio_dist()
+        fig_8_1, fig_8_2, fig_8_3 = self.get_rel_precio_dist()
 
-        fig_10 = self.get_corr_matrix()
+        fig_9 = self.get_corr_matrix()
 
         return html.Div([
             dcc.Graph(figure=fig1),
@@ -37,11 +33,10 @@ class GeneralProcessing:
             dcc.Graph(figure=fig5),
             dcc.Graph(figure=fig6),
             dcc.Graph(figure=fig7),
-            dcc.Graph(figure=fig8),
-            dcc.Graph(figure=fig_9_1),
-            dcc.Graph(figure=fig_9_2),
-            dcc.Graph(figure=fig_9_3),
-            dcc.Graph(figure=fig_10)
+            dcc.Graph(figure=fig_8_1),
+            dcc.Graph(figure=fig_8_2),
+            dcc.Graph(figure=fig_8_3),
+            dcc.Graph(figure=fig_9)
         ])
 
 
@@ -265,6 +260,12 @@ class GeneralProcessing:
             labels={'price': 'Precio (€)', 'room_type': 'Tipo de Habitación', 'count': 'Número de Alojamientos'}
         )
         
+        fig.update_layout(
+            xaxis=dict(title='Precio (€)'),
+            yaxis=dict(title='Número de Alojamientos'),
+            height=600
+        )
+
         return fig
     
     def get_rel_precio_tam(self):
@@ -369,3 +370,55 @@ class GeneralProcessing:
         )
 
         return fig
+
+    def get_madrid_cloropleth(self):
+        avg_price_per_neighbourhood = self.listings.groupby('neighbourhood')['price'].mean().reset_index()
+        avg_price_per_neighbourhood = avg_price_per_neighbourhood.merge(self.gdf, left_on='neighbourhood', right_on='neighbourhood')
+
+        m = folium.Map(location=[40.4167, -3.70325], zoom_start=12)
+
+        folium.Choropleth(
+            geo_data=self.gdf,
+            name='choropleth',
+            data=avg_price_per_neighbourhood,
+            columns=['neighbourhood', 'price'],
+            key_on='feature.properties.neighbourhood',
+            fill_color='YlOrRd',
+            fill_opacity=0.7,
+            line_opacity=0.2,
+            legend_name='Precio Promedio (€)'
+        ).add_to(m)
+
+        html_title = """
+            <h3 style="text-align:center">Mapa de cloropletas</h3>
+        """
+        m.get_root().html.add_child(folium.Element(html_title))
+
+        add_tourist_spots(m)
+
+        return m
+    
+    def get_madrid_heatmap(self):
+        m = folium.Map(location=[40.4167, -3.70325], zoom_start=12)
+
+        HeatMap(data=self.listings[['latitude', 'longitude']].values, radius=10).add_to(m)
+
+        for _, row in self.listings.iterrows():
+            folium.Circle(
+                location=[row['latitude'], row['longitude']],
+                radius=row['m2'] * 0.1,
+                color='blue',
+                fill=True,
+                fill_color='blue',
+                fill_opacity=0.2,
+                popup=f"m²: {row['m2']}<br>Precio: {row['price']}€"
+            ).add_to(m)
+
+        html_title = """
+            <h3 style="text-align:center">Mapa de calor de los alojamientos</h3>
+        """
+        m.get_root().html.add_child(folium.Element(html_title))
+
+        add_tourist_spots(m)
+
+        return m

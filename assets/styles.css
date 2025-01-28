@@ -26,10 +26,6 @@ h1 {
 }
 
 /* Estilos para las pestañas */
-.dash-tabs {
-    margin-bottom: 20px;
-}
-
 .dash-tab {
     background-color: #e0e0e0; /* Fondo gris claro para las pestañas */
     color: #000; /* Letras negras */
@@ -37,7 +33,8 @@ h1 {
     padding: 10px 20px;
     margin-right: 10px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-weight: bold;
 }
 
 .dash-tab:hover {
