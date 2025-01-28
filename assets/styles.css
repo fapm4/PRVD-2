@@ -1,8 +1,8 @@
 /* Estilos generales */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #000; /* Fondo negro */
-    color: #fff; /* Letras blancas */
+    background-color: #fff; /* Fondo blanco */
+    color: #000; /* Letras negras */
     margin: 0;
     padding: 0;
 }
@@ -12,15 +12,15 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #1a1a1a; /* Fondo gris oscuro para el contenedor */
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Sombra blanca */
+    background-color: #f9f9f9; /* Fondo gris claro para el contenedor */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra negra */
     border-radius: 8px;
 }
 
 /* Estilos para el título */
 h1 {
     text-align: center;
-    color: #fff; /* Letras blancas */
+    color: #000; /* Letras negras */
     font-size: 2.5em;
     margin-bottom: 20px;
 }
@@ -31,8 +31,8 @@ h1 {
 }
 
 .dash-tab {
-    background-color: #333; /* Fondo gris oscuro para las pestañas */
-    color: #fff; /* Letras blancas */
+    background-color: #e0e0e0; /* Fondo gris claro para las pestañas */
+    color: #000; /* Letras negras */
     border-radius: 5px;
     padding: 10px 20px;
     margin-right: 10px;
@@ -41,30 +41,31 @@ h1 {
 }
 
 .dash-tab:hover {
-    background-color: #555; /* Fondo gris más claro al pasar el mouse */
+    background-color: #d6d6d6; /* Fondo gris ligeramente más oscuro al pasar el mouse */
 }
 
 .dash-tab--selected {
     background-color: #007BFF; /* Fondo azul para la pestaña seleccionada */
+    color: #fff; /* Letras blancas */
 }
 
 /* Estilos para los dropdowns */
 .Select-control {
-    background-color: #333; /* Fondo gris oscuro */
+    background-color: #f0f0f0; /* Fondo gris muy claro */
     border-radius: 5px;
-    border: 1px solid #555; /* Borde gris */
-    color: #fff; /* Letras blancas */
+    border: 1px solid #ccc; /* Borde gris */
+    color: #000; /* Letras negras */
 }
 
 .Select-menu-outer {
-    background-color: #333; /* Fondo gris oscuro */
+    background-color: #f0f0f0; /* Fondo gris muy claro */
     border-radius: 5px;
-    border: 1px solid #555; /* Borde gris */
+    border: 1px solid #ccc; /* Borde gris */
 }
 
 .Select-option {
-    background-color: #333; /* Fondo gris oscuro */
-    color: #fff; /* Letras blancas */
+    background-color: #fff; /* Fondo blanco */
+    color: #000; /* Letras negras */
 }
 
 .Select-option.is-selected {
@@ -73,7 +74,7 @@ h1 {
 }
 
 .Select-option:hover {
-    background-color: #555; /* Fondo gris más claro al pasar el mouse */
+    background-color: #e6e6e6; /* Fondo gris claro al pasar el mouse */
 }
 
 /* Estilos para los mapas */
@@ -81,11 +82,71 @@ h1 {
     margin-top: 20px;
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Sombra blanca */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra negra */
 }
 
 /* Estilos para los iframes */
 iframe {
     border: none;
     border-radius: 8px;
+}
+
+/* Estilos para las tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+    background-color: #fff; /* Fondo blanco */
+    color: #000; /* Letras negras */
+    border: 1px solid #ddd; /* Borde gris claro */
+}
+
+/* Estilo para las tablas */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: #000;
+}
+
+td {
+    color: #000;
+}
+
+/* Estilo para los encabezados */
+h4, h5 {
+    color: #000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h5 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+/* Estilo para los contenedores */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilo para el contenedor principal */
+.data-container {
+    margin-bottom: 30px;
 }
