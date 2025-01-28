@@ -1,0 +1,13 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__571___,CRTM,571,MADRID (Aluche)-BOADILLA (Por Urb. Montepríncipe),,3,https://www.crtm.es/8__571___.aspx,8EBF42,FFFFFF
+8__572___,CRTM,572,MADRID (Aluche)-CIUDAD DE LA IMAGEN,,3,https://www.crtm.es/8__572___.aspx,8EBF42,FFFFFF
+8__573___,CRTM,573,MADRID (Moncloa)-BOADILLA (Por Urb. Montepríncipe),,3,https://www.crtm.es/8__573___.aspx,8EBF42,FFFFFF
+8__574___,CRTM,574,MADRID (Aluche)-BOADILLA DEL MONTE (Por Ciudad Financiera),,3,https://www.crtm.es/8__574___.aspx,8EBF42,FFFFFF
+8__575___,CRTM,575,BOADILLA DEL MONTE-BRUNETE,,3,https://www.crtm.es/8__575___.aspx,8EBF42,FFFFFF
+8__591___,CRTM,591,MADRID (Aluche) - ETSI  Informáticos,,3,https://www.crtm.es/8__591___.aspx,8EBF42,FFFFFF
+8__865___,CRTM,865,MADRID (Moncloa) - CAMPUS UPM MONTEGANCEDO,,3,https://www.crtm.es/8__865___.aspx,8EBF42,FFFFFF
+8_N_905___,CRTM,N905,MADRID (Moncloa)-BOADILLA DEL MONTE,,3,https://www.crtm.es/8_N_905___.aspx,8EBF42,FFFFFF
+9__1__022_,CRTM,1,PASEO DE MADRID-OLIVAR-PARQUE-LAS LOMAS,,3,https://www.crtm.es/9__1__022_.aspx,E60003,FFFFFF
+9__2__022_,CRTM,2,FERIAL DE BOADILLA-VALDEPASTORES-LAS LOMAS,,3,https://www.crtm.es/9__2__022_.aspx,E60003,FFFFFF
+9__3__022_,CRTM,3,FERIAL DE BOADILLA-VALDECABAÑAS-BONANZA,,3,https://www.crtm.es/9__3__022_.aspx,E60003,FFFFFF
+9__4__022_,CRTM,4,BOADILLA CENTRO - EL PASTEL,,3,https://www.crtm.es/9__4__022_.aspx,E60003,FFFFFF

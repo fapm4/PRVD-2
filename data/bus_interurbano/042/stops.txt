@@ -1,0 +1,61 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+par_8_08461,08461,PºEXTREMADURA-CUATRO VIENTOS,Paseo de Extremadura 8500,40.380132080447,-3.7900509419197,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08464,08464,PºEXTREMADURA-CUATRO VIENTOS,Paseo de Extremadura 573,40.3776645886858,-3.79254302966251,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08469,08469,AV.S.MARTÍN VALDEIGLESIAS-C.C.TRES AGUAS,Avda de San Martín de Valdeiglesias 18,40.3573417663574,-3.83218741416931,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08926,08926,CTRA.M501-EL VENTORRO,Ctra de M-501 (De Alcorcón a Plasencia) 17500,40.3960342407227,-3.99411749839783,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_08927,08927,CTRA.M501-EL VENTORRO,Ctra de M-501 (De Alcorcón a Plasencia) 26,40.396484375,-3.99405360221863,B3,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09346,09346,AV.CALATALIFA-MAGNOLIA,Avda  Calatalifa 22,40.3556823730469,-3.90313053131104,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09347,09347,AV.CALATALIFA-SAN ANTONIO,Avda   Calatalifa 22,40.3553123474121,-3.90298438072205,B2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09364,09364,ARGENTINA-C.C.TRES AGUAS,Calle de Argentina 8,40.3557739257813,-3.82941246032715,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09548,09548,AV.MARCIAL LLORENTE-CºVALDEYERNOS,Avda de Marcial Llorente 92,40.3591194152832,-4.3330135345459,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09549,09549,AV.MARCIAL LLORENTE-CºVALDEYERNOS,Cmno de Valdeyernos 2,40.3588600158691,-4.33282041549683,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09550,09550,AV.MARCIAL LLORENTE-PANTANO DE SAN JUAN,Avda de Marcial Llorente 14,40.3647499084473,-4.31667137145996,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09551,09551,AV.MARCIAL LLORENTE-PANTANO DE SAN JUAN,Avda de Marcial Llorente 16,40.364501953125,-4.31683158874512,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09795,09795,CTRA.ÁVILA-MARTÍN BRAVO,Ctra de Ávila (N-403) 79600,40.361572265625,-4.40596103668213,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09797,09797,CTRA.M501-CENTRO RESIDENCIAL,Ctra de Alcorcón-Plasencia (M-501) 57.200,40.3572769165039,-4.38710069656372,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09798,09798,CTRA.M501-CENTRO RESIDENCIAL,Ctra de M-501 (Alcorcón-Plasencia) 55600,40.3580627441406,-4.38993167877197,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_09881,09881,PZA.ESPAÑA-ARTISTAS,Plaza de España 6,40.4184150695801,-4.19809150695801,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10121,10121,CTRA.M501-ENCRUCIJADA,Ctra   M-501 (Alcorcón-Plasencia) 25300,40.3816604614258,-4.08404016494751,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10125,10125,CHAPINERÍA,Ctra   M-510 (Colmenar del Arroyo) 1,40.3830528259277,-4.20948123931885,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10128,10128,CTRA.M501-URB.SAN JUAN,Ctra de M-501 (Alcorcón-Plasencia) 47900,40.370777130127,-4.30310201644897,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10129,10129,EST. DE AUTOBUSES DE SAN MARTÍN DE V.,Avda   Madrid 24,40.3603172302246,-4.39574813842773,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10131,10131,CTRA.M501-URB.SAN JUAN,Ctra de Alcorcón-Plasencia (M-501) SN,40.3708419799805,-4.30293846130371,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10132,10132,CTRA.ROBLEDO DE CHAVELA-PZA.DEL CUARTEL,Ctra de Robledo de Chavela 5,40.3855247497559,-4.25087738037109,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_10136,10136,CTRA.M501-ENCRUCIJADA,Ctra   M-501 (Alcorcón-Plasencia) 25300,40.3813819885254,-4.08383512496948,C1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11770,11770,BUDAPEST-HOSPITAL FUNDACIÓN ALCORCÓN,Calle de Budapest 2,40.3495826721191,-3.83451771736145,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11779,11779,BUDAPEST-HOSPITAL FUNDACIÓN ALCORCÓN,Calle de Budapest 4,40.3504791259766,-3.83552956581116,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_11817,11817,CTRA.M510-URB.SAN ROQUE,Avda de Chapinería 3,40.4139022827148,-4.19797611236572,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12165,12165,CTRA.ROBLEDO DE  CHAVELA-AV.CONSTITUCIÓN,Ctra de Robledo de Chavela 10,40.3855438232422,-4.25067758560181,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12196,12196,CTRA.ÁVILA-ESTUDIOS,Ctra de Ávila (N-403) 26,40.3615417480469,-4.40527772903442,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12591,12591,CTRA.ROBLEDO DE CHAVELA-AV.OLÍMPICA,Avda   Olímpica 4,40.3881187438965,-4.25091361999512,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12592,12592,CTRA.ROBLEDO DE CHAVELA-AV.OLÍMPICA,Calle de José Antonio Primo de Rivera 41,40.3882713317871,-4.25098705291748,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12852,12852,AV.MARCIAL LLORENTE-URB.PINOS VERDES,Avda de Marcial Llorente 70,40.3621139526367,-4.32557058334351,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_12853,12853,AV.MARCIAL LLORENTE-URB.PINOS VERDES,Avda de Marcial Llorente 11,40.3620719909668,-4.32532262802124,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16206,16206,AV.MADRID-GUARDIA CIVIL,Plaza del Pilar 3,40.3847618103027,-4.24617481231689,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_16207,16207,AV.MADRID-GUARDIA CIVIL,Avda de Madrid 1,40.3846626281738,-4.24629068374634,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17052,17052,INTERCAMBIADOR DE PRÍNCIPE PÍO,Paseo de la Florida 5,40.4215126037598,-3.7208878993988,A,http://www.crtm.es,0,est_90_18,,2
+par_8_17744,17744,CTRA.M501-CENTRO TRATAMIENTO RESIDUOS,Ctra de Alcorcón-Plasencia sn,40.3816566467285,-4.16564416885376,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17746,17746,CTRA.M501-CENTRO TRATAMIENTO RESIDUOS,Ctra de Alcorcón-Plasencia 32500,40.3811111450195,-4.16730785369873,C2,http://www.crtm.es,0,,Europe/Madrid,2
+par_8_17773,17773,CTRA.CADALSO-RESIDENCIAL LAS CUMBRES,Ctra.   M-541 05,40.3537635803223,-4.34362411499023,C2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_17774,17774,CTRA.CADALSO-RESIDENCIAL LAS CUMBRES,Ctra   M-541 05,40.3534736633301,-4.34368896484375,C2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18853,18853,HOSPITAL REY JUAN CARLOS,Calle   Gladiolo 26,40.3395042419434,-3.8700315952301,B2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18911,18911,EST.DE AUTOBUSES DE EL TIEMBLO,Avda de la Juventud SN,40.4145278930664,-4.49675512313843,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18912,18912,EST.DE AUTOBUSES DE CEBREROS,Acces  Estación Autobuses SN,40.4567718505859,-4.46220588684082,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18913,18913,EL TIEMBLO-URB.LA ATALAYA,Ctra de Ávila a San Martín de Valdeiglesias SN,40.3833503723145,-4.45300674438477,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18914,18914,EL TIEMBLO-URB.LA ATALAYA,Ctra de Ávila a San Martín de Valdeiglesias SN,40.3834037780762,-4.4531135559082,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18915,18915,EL TIEMBLO-PUENTE JUDÍO,Ctra de El Tiemblo a Cebreros SN,40.3938064575195,-4.44097757339478,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18916,18916,EL TIEMBLO-PUENTE JUDÍO,Ctra de El Tiemblo a Cebreros SN,40.3938064575195,-4.44097757339478,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18917,18917,EL TIEMBLO-URB.DEHESA VALDESANMARTÍN,Ctra de El Tiemblo a Cebreros SN,40.4036026000977,-4.43766307830811,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18918,18918,EL TIEMBLO-URB.DEHESA VALDESANMARTÍN,Ctra de El Tiemblo a Cebreros SN,40.4036026000977,-4.43766307830811,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18919,18919,EL TIEMBLO-PUENTE NUEVO,Ctra de El Tiemblo a Cebreros SN,40.4118614196777,-4.43785047531128,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_18920,18920,EL TIEMBLO-PUENTE NUEVO,Ctra  AV-502 SN,40.4113998413086,-4.43808841705322,SZ,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19440,19440,PZA.ESPAÑA-ARTISTAS,Plaza de España 8,40.4182891845703,-4.19817209243774,C2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19441,19441,CTRA.M510-URB.SAN ROQUE,Avda de Chapinería 4,40.4139099121094,-4.19828271865845,C2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19914,19914,AV.SAN MARTÍN DE VALDEIGLESIAS-POLÍGONO,Ctra de San Martín de Valdeiglesias 6200,40.3564414978027,-3.85640025138855,B1,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_19915,19915,AV.SAN MARTÍN DE VALDEIGLESIAS-POLÍGONO,Ctra de San Martín de Valdeiglesias 6200,40.3561897277832,-3.85634994506836,B1,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_20014,20014,CTRA.TOLEDO-PLAZA DE TOROS,Ctra de N-403 (Toledo) 79300,40.3606986999512,-4.40276336669922,C2,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_881,881,Pº EXTREMADURA Nº 190,Paseo de Extremadura 3600,40.4078750610352,-3.7447726726532,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_885,885,Pº EXTREMADURA-BATAN,Paseo de Extremadura 4200,40.4050903320313,-3.75136518478394,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_892,892,Pº EXTREMADURA-CAMPAMENTO,Calle de Carabias 24,40.3965209976837,-3.76841989361963,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_8_893,893,Pº EXTREMADURA-CAMPAMENTO,Avda del Padre Piquer 3,40.3959503173828,-3.76871466636658,A,http://www.crtm.es,0,,Europe/Madrid,0
+est_90_18,18,Intercambiador de Príncipe Pío,Paseo de la Florida 2,40.42107,-3.72037,A,http://www.crtm.es,1,,Europe/Madrid,0

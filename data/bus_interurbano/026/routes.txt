@@ -1,0 +1,19 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__580___,CRTM,580,MAJADAHONDA(Hospital)-BRUNETE,,3,https://www.crtm.es/8__580___.aspx,8EBF42,FFFFFF
+8__581___,CRTM,581,MADRID (Príncipe Pío)-BRUNETE-QUIJORNA,,3,https://www.crtm.es/8__581___.aspx,8EBF42,FFFFFF
+8__620___,CRTM,620,LAS MATAS-HOSPITAL PUERTA DE HIERRO,,3,https://www.crtm.es/8__620___.aspx,8EBF42,FFFFFF
+8__621___,CRTM,621,MADRID (Moncloa)-LAS ROZAS,,3,https://www.crtm.es/8__621___.aspx,8EBF42,FFFFFF
+8__622___,CRTM,622,MADRID (Moncloa)-LAS ROZAS-LAS MATAS,,3,https://www.crtm.es/8__622___.aspx,8EBF42,FFFFFF
+8__623___,CRTM,623,MADRID (Moncloa)-LAS ROZAS-URB.VILLAFRANCA DEL CASTILLO,,3,https://www.crtm.es/8__623___.aspx,8EBF42,FFFFFF
+8__624___,CRTM,624,MADRID (Moncloa)-COL.VERACRUZ-LAS ROZAS,,3,https://www.crtm.es/8__624___.aspx,8EBF42,FFFFFF
+8__624_A__,CRTM,624A,MADRID (Moncloa) - LAS ROZAS (La Marazuela),,3,https://www.crtm.es/8__624_A__.aspx,8EBF42,FFFFFF
+8__625___,CRTM,625,MADRID (Moncloa)-MONTE ROZAS,,3,https://www.crtm.es/8__625___.aspx,8EBF42,FFFFFF
+8__626___,CRTM,626,LAS ROZAS-MAJADAHONDA-VILLANUEVA DE LA CAÑADA,,3,https://www.crtm.es/8__626___.aspx,8EBF42,FFFFFF
+8__626_A__,CRTM,626A,MAJADAHONDA (Estación FFCC)-VILLANUEVA DEL PARDILLO,,3,https://www.crtm.es/8__626_A__.aspx,8EBF42,FFFFFF
+8__627___,CRTM,627,MADRID (Moncloa)-VILLANUEVA DE LA CAÑADA-BRUNETE,,3,https://www.crtm.es/8__627___.aspx,8EBF42,FFFFFF
+8__628___,CRTM,628,MADRID (Moncloa)-P.EMPRESARIAL-EL CANTIZAL,,3,https://www.crtm.es/8__628___.aspx,8EBF42,FFFFFF
+8__629___,CRTM,629,MADRID (Moncloa)-LAS ROZAS (Parque Empresarial),,3,https://www.crtm.es/8__629___.aspx,8EBF42,FFFFFF
+8_N_903___,CRTM,N903,MADRID (Moncloa)-LAS ROZAS-MONTE ROZAS,,3,https://www.crtm.es/8_N_903___.aspx,8EBF42,FFFFFF
+8_N_907___,CRTM,N907,MADRID (Moncloa)-VILLANUEVA DE LA CAÑADA-BRUNETE,,3,https://www.crtm.es/8_N_907___.aspx,8EBF42,FFFFFF
+9__1__127_,CRTM,1,LAS ROZAS-URBANIZACIÓN MOLINO DE LA HOZ,,3,https://www.crtm.es/9__1__127_.aspx,E60003,FFFFFF
+9__2__127_,CRTM,2,LAS ROZAS - MONTE ROZAS - EL ENCINAR,,3,https://www.crtm.es/9__2__127_.aspx,E60003,FFFFFF

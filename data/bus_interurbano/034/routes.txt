@@ -1,0 +1,46 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__510___,CRTM,510,ALCORCÓN-VILLAVICIOSA-EL BOSQUE,,3,https://www.crtm.es/8__510___.aspx,8EBF42,FFFFFF
+8__510_A__,CRTM,510A,MADRID (Colonia Jardín) - VILLAVICIOSA DE ODÓN - ALCORCÓN,,3,https://www.crtm.es/8__510_A__.aspx,8EBF42,FFFFFF
+8__511___,CRTM,511,MADRID (Príncipe Pío)-ALCORCÓN (Por Parque Lisboa),,3,https://www.crtm.es/8__511___.aspx,8EBF42,FFFFFF
+8__512___,CRTM,512,MADRID (Príncipe Pío)-ALCORCÓN (Por C. de los Cantos),,3,https://www.crtm.es/8__512___.aspx,8EBF42,FFFFFF
+8__513___,CRTM,513,MADRID (Príncipe Pío)-ALCORCÓN (P.I. Urtinsa),,3,https://www.crtm.es/8__513___.aspx,8EBF42,FFFFFF
+8__514___,CRTM,514,MADRID (Príncipe Pío) - ALCORCÓN (por Los Castillos),,3,https://www.crtm.es/8__514___.aspx,8EBF42,FFFFFF
+8__516___,CRTM,516,MADRID (Príncipe Pío)-ALCORCÓN (Por Universidad Rey Juan Carlos),,3,https://www.crtm.es/8__516___.aspx,8EBF42,FFFFFF
+8__517___,CRTM,517,MADRID (Cuatro Vientos) - ALCORCÓN (Fuente Cisneros),,3,https://www.crtm.es/8__517___.aspx,8EBF42,FFFFFF
+8__518___,CRTM,518,MADRID (Príncipe Pío)-VILLAVICIOSA DE ODÓN,,3,https://www.crtm.es/8__518___.aspx,8EBF42,FFFFFF
+8__519___,CRTM,519,MÓSTOLES-VILLAVICIOSA DE ODÓN,,3,https://www.crtm.es/8__519___.aspx,8EBF42,FFFFFF
+8__519_A__,CRTM,519A,MÓSTOLES (Hospital Rey Juan Carlos) por El Soto-VILLAVICIOSA DE ODÓN (El Bosque),,3,https://www.crtm.es/8__519_A__.aspx,8EBF42,FFFFFF
+8__520___,CRTM,520,ALCORCÓN-MÓSTOLES,,3,https://www.crtm.es/8__520___.aspx,8EBF42,FFFFFF
+8__521___,CRTM,521,MADRID (Príncipe Pío)-MÓSTOLES,,3,https://www.crtm.es/8__521___.aspx,8EBF42,FFFFFF
+8__522___,CRTM,522,MADRID (Príncipe Pío)-MÓSTOLES (Por Pistas DGT),,3,https://www.crtm.es/8__522___.aspx,8EBF42,FFFFFF
+8__523___,CRTM,523,MADRID (Príncipe Pío)-MÓSTOLES (Villafontana),,3,https://www.crtm.es/8__523___.aspx,8EBF42,FFFFFF
+8__524___,CRTM,524,MADRID (Príncipe Pío) - MÓSTOLES SUR,,3,https://www.crtm.es/8__524___.aspx,8EBF42,FFFFFF
+8__525___,CRTM,525,MADRID (Príncipe Pío)-MÓSTOLES SUR (Por Av.Onu),,3,https://www.crtm.es/8__525___.aspx,8EBF42,FFFFFF
+8__526___,CRTM,526,FUENLABRADA - MÓSTOLES (Por FF.CC),,3,https://www.crtm.es/8__526___.aspx,8EBF42,FFFFFF
+8__527___,CRTM,527,MÓSTOLES (Estación FFCC)-FUENLABRADA (Urb. Loranca),,3,https://www.crtm.es/8__527___.aspx,8EBF42,FFFFFF
+8__528___,CRTM,528,MADRID (Príncipe Pío)-NAVALCARNERO,,3,https://www.crtm.es/8__528___.aspx,8EBF42,FFFFFF
+8__529___,CRTM,529,MÓSTOLES (Hospital Rey Juan Carlos)-NAVALCARNERO-EL ÁLAMO,,3,https://www.crtm.es/8__529___.aspx,8EBF42,FFFFFF
+8__529_A__,CRTM,529A,MÓSTOLES (Hospital Rey Juan Carlos)-NAVALCARNERO-BATRES,,3,https://www.crtm.es/8__529_A__.aspx,8EBF42,FFFFFF
+8__529_H__,CRTM,529H,MÓSTOLES (Hospital Rey Juan Carlos) - NAVALCARNERO,,3,https://www.crtm.es/8__529_H__.aspx,8EBF42,FFFFFF
+8__530___,CRTM,530,NAVALCARNERO-VILLANUEVA DE LA CAÑADA,,3,https://www.crtm.es/8__530___.aspx,8EBF42,FFFFFF
+8__531___,CRTM,531,MÓSTOLES (Hospital Rey Juan Carlos)-NAVALCARNERO-SEVILLA LA NUEVA,,3,https://www.crtm.es/8__531___.aspx,8EBF42,FFFFFF
+8__531_A__,CRTM,531A,MÓSTOLES (Hospital Rey Juan Carlos)-NAVALCARNERO-VILLAMANTILLA,,3,https://www.crtm.es/8__531_A__.aspx,8EBF42,FFFFFF
+8__532___,CRTM,532,MADRID (Colonia Jardín)-SEVILLA LA NUEVA,,3,https://www.crtm.es/8__532___.aspx,8EBF42,FFFFFF
+8__534___,CRTM,534,MADRID (Príncipe Pío)-URB. PARQUE COIMBRA-XANADÚ,,3,https://www.crtm.es/8__534___.aspx,8EBF42,FFFFFF
+8__538___,CRTM,538,MADRID (Príncipe Pío) - NAVALCARNERO (La Dehesa),,3,https://www.crtm.es/8__538___.aspx,8EBF42,FFFFFF
+8__539___,CRTM,539,MADRID (Príncipe Pío)-EL ÁLAMO,,3,https://www.crtm.es/8__539___.aspx,8EBF42,FFFFFF
+8_N_501___,CRTM,N501,MADRID (Príncipe Pío)-ALCORCÓN-MÓSTOLES,,3,https://www.crtm.es/8_N_501___.aspx,8EBF42,FFFFFF
+8_N_502___,CRTM,N502,MADRID (Príncipe Pío)-ALCORCÓN,,3,https://www.crtm.es/8_N_502___.aspx,8EBF42,FFFFFF
+8_N_503___,CRTM,N503,MADRID (Príncipe Pío)-MÓSTOLES (Villafontana),,3,https://www.crtm.es/8_N_503___.aspx,8EBF42,FFFFFF
+8_N_504___,CRTM,N504,MADRID (Príncipe Pío)-VILLAVICIOSA DE ODÓN,,3,https://www.crtm.es/8_N_504___.aspx,8EBF42,FFFFFF
+8_N_505___,CRTM,N505,MADRID (Príncipe Pío) - NAVALCARNERO - EL ÁLAMO,,3,https://www.crtm.es/8_N_505___.aspx,8EBF42,FFFFFF
+9__1__096_,CRTM,1,LA DEHESA-EL PINAR,,3,https://www.crtm.es/9__1__096_.aspx,E60003,FFFFFF
+9__1__092_,CRTM,1,LAS CUMBRES-ESTACIÓN FFCC,,3,https://www.crtm.es/9__1__092_.aspx,E60003,FFFFFF
+9__1__007_,CRTM,1,PUERTA DEL SUR - FUENTE CISNEROS,,3,https://www.crtm.es/9__1__007_.aspx,E60003,FFFFFF
+9__2__092_,CRTM,2,MÓSTOLES (Pradillo)-CEMENTERIO,,3,https://www.crtm.es/9__2__092_.aspx,E60003,FFFFFF
+9__2__007_,CRTM,2,ONDARRETA-PRADO STO DOMINGO,,3,https://www.crtm.es/9__2__007_.aspx,E60003,FFFFFF
+9__3__007_,CRTM,3,ALCORCÓN CENTRAL - PARQUE EL LUCERO,,3,https://www.crtm.es/9__3__007_.aspx,E60003,FFFFFF
+9__3__092_,CRTM,3,POLÍGONO INDUSTRIAL LAS NIEVES-MÓSTOLES PRADILLO,,3,https://www.crtm.es/9__3__092_.aspx,E60003,FFFFFF
+9__4__092_,CRTM,4,MÓSTOLES SUR - MÓSTOLES (HOSPITAL REY JUAN CARLOS),,3,https://www.crtm.es/9__4__092_.aspx,E60003,FFFFFF
+9__5__092_,CRTM,5,MOSTOLES (Estación FF.CC.) - PARQUE COIMBRA,,3,https://www.crtm.es/9__5__092_.aspx,E60003,FFFFFF
+9__6__092_,CRTM,6,UNIVERSIDAD REY JUAN CARLOS-URB. P.GUADARRAMA,,3,https://www.crtm.es/9__6__092_.aspx,E60003,FFFFFF

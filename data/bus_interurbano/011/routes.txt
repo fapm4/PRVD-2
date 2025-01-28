@@ -1,0 +1,6 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__641___,CRTM,641,MADRID (Moncloa)-VALDEMORILLO,,3,https://www.crtm.es/8__641___.aspx,8EBF42,FFFFFF
+8__642___,CRTM,642,MADRID (Moncloa)-COLMENAR DEL ARROYO,,3,https://www.crtm.es/8__642___.aspx,8EBF42,FFFFFF
+8__643___,CRTM,643,MADRID (Moncloa)-VILLANUEVA DEL PARDILLO,,3,https://www.crtm.es/8__643___.aspx,8EBF42,FFFFFF
+8__FS1___,CRTM,FS1,LAS ROZAS (Centros Comerciales) - VALDEMORILLO,,3,https://www.crtm.es/8__FS1___.aspx,8EBF42,FFFFFF
+8_N_908___,CRTM,N908,MADRID (Moncloa)-VILLANUEVA DEL PARDILLO-VALDEMORILLO,,3,https://www.crtm.es/8_N_908___.aspx,8EBF42,FFFFFF

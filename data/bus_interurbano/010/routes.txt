@@ -1,0 +1,22 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__330___,CRTM,330,RIVAS-ARGANDA (Hospital)-MORATA,,3,https://www.crtm.es/8__330___.aspx,8EBF42,FFFFFF
+8__331___,CRTM,331,MADRID (Conde de Casal)-RIVAS (Sta. Mónica)-RIVAS FUTURA,,3,https://www.crtm.es/8__331___.aspx,8EBF42,FFFFFF
+8__332___,CRTM,332,MADRID (Conde de Casal)-RIVAS PUEBLO,,3,https://www.crtm.es/8__332___.aspx,8EBF42,FFFFFF
+8__333___,CRTM,333,Madrid (Conde de Casal) - Rivas (Bellavista),,3,https://www.crtm.es/8__333___.aspx,8EBF42,FFFFFF
+8__334___,CRTM,334,MADRID (Conde de Casal) - RIVAS FUTURA,,3,https://www.crtm.es/8__334___.aspx,8EBF42,FFFFFF
+8__336___,CRTM,336,MADRID (Conde de Casal)-MORATA DE TAJUÑA,,3,https://www.crtm.es/8__336___.aspx,8EBF42,FFFFFF
+8__337___,CRTM,337,MADRID (Conde de Casal)-CHINCHÓN-VALDELAGUNA,,3,https://www.crtm.es/8__337___.aspx,8EBF42,FFFFFF
+8__339___,CRTM,339,MADRID (Conde de Casal)-VALDEMINGÓMEZ,,3,https://www.crtm.es/8__339___.aspx,8EBF42,FFFFFF
+8__410___,CRTM,410,ARANJUEZ-CIEMPOZUELOS-SAN MARTÍN DE LA VEGA,,3,https://www.crtm.es/8__410___.aspx,8EBF42,FFFFFF
+8__411___,CRTM,411,MADRID (Legazpi) - PERALES DEL RÍO,,3,https://www.crtm.es/8__411___.aspx,8EBF42,FFFFFF
+8__412___,CRTM,412,MADRID (Villaverde Bajo-Cruce)-SAN MARTÍN DE LA VEGA,,3,https://www.crtm.es/8__412___.aspx,8EBF42,FFFFFF
+8__413___,CRTM,413,PINTO (FFCC)-SAN MARTÍN DE LA VEGA,,3,https://www.crtm.es/8__413___.aspx,8EBF42,FFFFFF
+8__414___,CRTM,414,MADRID (Villaverde Bajo-Cruce)-C.P. MADRID III,,3,https://www.crtm.es/8__414___.aspx,8EBF42,FFFFFF
+8__415___,CRTM,415,MADRID (Villaverde Bajo-Cruce)-VILLACONEJOS,,3,https://www.crtm.es/8__415___.aspx,8EBF42,FFFFFF
+8__416___,CRTM,416,VALDEMORO (Hosp.)-S. M. DE LA VEGA-TITULCIA-COLMENAR DE OREJA,,3,https://www.crtm.es/8__416___.aspx,8EBF42,FFFFFF
+8_N_301___,CRTM,N301,MADRID (Conde de Casal) - RIVAS (Covibar) - RIVAS FUTURA,,3,https://www.crtm.es/8_N_301___.aspx,8EBF42,FFFFFF
+8_N_302___,CRTM,N302,MADRID (Conde de Casal) - RIVAS PUEBLO,,3,https://www.crtm.es/8_N_302___.aspx,8EBF42,FFFFFF
+8_N_403___,CRTM,N403,MADRID (Atocha)-SAN MARTÍN DE LA VEGA,,3,https://www.crtm.es/8_N_403___.aspx,8EBF42,FFFFFF
+9__1__123_,CRTM,1,BARRIO DE LA LUNA - RIVAS PUEBLO,,3,https://www.crtm.es/9__1__123_.aspx,E60003,FFFFFF
+9__1__132_,CRTM,1,CIRCULAR SAN MARTIN DE LA VEGA,,3,https://www.crtm.es/9__1__132_.aspx,E60003,FFFFFF
+9_i_1__132_,CRTM,i1,RUTAS INSTITUTOS,,3,https://www.crtm.es/9_i_1__132_.aspx,E60003,FFFFFF

@@ -1,0 +1,2 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+1_8__551___,1,1,1,1,1,1,1,20241027,20251126

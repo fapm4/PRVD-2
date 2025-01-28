@@ -172,19 +172,7 @@ cython_debug/
 
 *.zip
 
-<<<<<<< HEAD
-.data/
-
-data/*
-
-*.csv
-
-*.txt
-
-
-=======
 # .data/
->>>>>>> 0a35fce (Añadir archivos)
 
 # data/*
 
