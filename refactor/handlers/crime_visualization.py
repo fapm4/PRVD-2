@@ -3,6 +3,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
 from dash import html, dcc
+import folium
+from folium.plugins import MarkerCluster
 
 class CrimeVisualization:
     def __init__(self, crime_data, gdf):
@@ -61,3 +63,52 @@ class CrimeVisualization:
             dcc.Graph(figure=fig2),
             dcc.Graph(figure=fig3)
         ])
+    
+    def get_map(self, crimen):
+    
+
+        # Asegurarse de que el GeoDataFrame tiene un CRS válido en WGS84
+        if self.gdf.crs is None or self.gdf.crs.to_string() != "EPSG:4326":
+            self.gdf = self.gdf.to_crs(epsg=4326)
+
+        # Crear una nueva columna "TOTAL INCIDENTES FILTRADOS" con el crimen seleccionado
+        self.gdf["TOTAL INCIDENTES FILTRADOS"] = self.crimes_data[crimen]
+
+        # Verificar si las geometrías son válidas y calcular los centroides
+        self.gdf["centroid"] = self.gdf.geometry.centroid
+        self.gdf["latitude"] = self.gdf["centroid"].y
+        self.gdf["longitude"] = self.gdf["centroid"].x
+
+        # Configurar el centro del mapa
+        map_center = [
+            self.gdf["latitude"].mean(),
+            self.gdf["longitude"].mean()
+        ]
+
+        # Crear el mapa base con Folium
+        folium_map = folium.Map(location=map_center, zoom_start=12)
+
+        # Añadir círculos proporcionales al número de incidentes filtrados
+        for _, row in self.gdf.iterrows():
+            # Manejar casos donde las coordenadas no son válidas o no hay incidentes
+            if not (row["latitude"] and row["longitude"]) or row["TOTAL INCIDENTES FILTRADOS"] <= 0:
+                continue
+            
+            # Escalar el tamaño del círculo
+            scaled_radius = max(row["TOTAL INCIDENTES FILTRADOS"], 1) * 10  # Ajustar escala según sea necesario
+
+            folium.Circle(
+                location=[row["latitude"], row["longitude"]],
+                radius=scaled_radius,
+                color="red",
+                fill=True,
+                fill_color="red",
+                fill_opacity=0.5,
+                popup=(
+                    f"<b>Distrito:</b> {row.get('neighbourhood_group', 'Desconocido')}<br>"
+                    f"<b>Total {crimen}:</b> {row['TOTAL INCIDENTES FILTRADOS']}"
+                )
+            ).add_to(folium_map)
+
+        # Devolver el mapa generado
+        return folium_map
