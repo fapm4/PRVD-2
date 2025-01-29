@@ -1,0 +1,53 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import calmap
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+import io
+import base64
+
+class MadridPollutionCalendar:
+    def __init__(self, file_path):
+        self.df = pd.read_csv(file_path)
+        self.df['date'] = pd.to_datetime(self.df['date'])
+        self.pollutants = ['NO_2', 'PM10', 'PM25', 'O_3', 'NOx', 'SO_2']
+    
+    def plot_calendar(self, pollutant):
+        df_day = self.df.groupby(self.df['date'].dt.date)[pollutant].mean()
+        df_day.index = pd.to_datetime(df_day.index)
+        
+        fig, ax = plt.subplots(figsize=(12, 8))
+        calmap.yearplot(df_day, cmap='YlGnBu', fillcolor='white', ax=ax)
+        
+        sm = plt.cm.ScalarMappable(cmap='YlGnBu', norm=plt.Normalize(vmin=df_day.min(), vmax=df_day.max()))
+        sm.set_array([])
+        fig.colorbar(sm, ax=ax, orientation='vertical', fraction=0.02, pad=0.04)
+        
+        plt.title(f'Calendario de contaminación {pollutant}', fontsize=16)
+        
+        buf = io.BytesIO()
+        plt.savefig(buf, format='png')
+        plt.close(fig)
+        buf.seek(0)
+        encoded_image = base64.b64encode(buf.read()).decode('utf-8')
+        return encoded_image
+
+# Создание экземпляра
+pollution_calendar = MadridPollutionCalendar('datos_nuevos/madrid_nuevo1.csv')
+
+# Dash-приложение
+app = dash.Dash(__name__)
+
+app.layout = html.Div([
+    html.H1("Calendario de Contaminación en Madrid"),
+    dcc.Dropdown(
+        id='pollutant-selector',
+        options=[{'label': pol, 'value': pol} for pol in pollution_calendar.pollutants],
+        value='NO_2',
+        clearable=False
+    ),
+    html.Img(id='calendar-image', style={'width': '80%', 'margin-top': '20px'})
+])
