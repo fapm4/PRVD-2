@@ -4,3 +4,7 @@ geopandas
 folium
 plotly
 geopy
+seaborn
+dash
+nbformat
+python==3.13
