@@ -139,7 +139,6 @@ class BusMap:
                     <h4 style="color:{color}">Línea {route_name}</h4>
                     <b>Parada:</b> {stop['stop_name']}<br>
                     <b>Hora:</b> {stop_time['arrival_time']}<br>
-                    <b>Zona:</b> {stop.get('zone_id', 'N/A')}<br>
                     <b>Dirección:</b> {stop.get('stop_desc', 'N/A')}<br>
                 </div>
                 """
